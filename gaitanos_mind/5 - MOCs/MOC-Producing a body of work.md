@@ -1,0 +1,5 @@
+1. [[Producing a body of work]]
+2. [[Gaining a deep understanding]]
+3. [[Conducting a literature review]]
+4. [[Exploring gaps for further investigations]]
+5. [[Analyzing results]]

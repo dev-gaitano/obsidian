@@ -1,0 +1,1 @@
+These are templates ([[3 - Permanent Notes/Template]]) whose content can be changed/customized automatically without altering the code.

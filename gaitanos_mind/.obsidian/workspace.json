@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "04d239cb8543e403",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a5a054d7783292f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ba65e902a32d6f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Fleeting Notes/NATO Fashion House - Rebrand.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NATO Fashion House - Rebrand"
+            }
+          },
+          {
+            "id": "bb8b1e7e9a9f5f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Fleeting Notes/Corey Schafer - Python Tutorial for Beginners 2, Strings - Working with Textual Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Corey Schafer - Python Tutorial for Beginners 2, Strings - Working with Textual Data"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "488c65776dc98c19",
+    "type": "split",
+    "children": [
+      {
+        "id": "19ab2f465b4f4233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa105972d4c2666",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "515c992461ad76ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "925ebd666f8e70be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8ec8c06152567b3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1cf1f8634e9a464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c178b966c03bea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Fleeting Notes/Moringa - Programming Languages & Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Moringa - Programming Languages & Setup"
+            }
+          },
+          {
+            "id": "ca2bb68a7e3dac32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Fleeting Notes/Moringa - Programming Languages & Setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Moringa - Programming Languages & Setup"
+            }
+          },
+          {
+            "id": "9150f564a069abbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9db65bc5ac9af98e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bb8b1e7e9a9f5f43",
+  "lastOpenFiles": [
+    "Templates/Source template.md",
+    "1 - Fleeting Notes/Untitled.md",
+    "Templates/Template.md",
+    "4 - Source/youtube/Coding2GO - Learn CSS Positions in 4 minutes.md",
+    "1 - Fleeting Notes/Corey Schafer - Python Tutorial for Beginners 2, Strings - Working with Textual Data.md",
+    "1 - Fleeting Notes/NATO Fashion House - Rebrand.md",
+    "4 - Source/youtube/Corey Schafer - Python Tutorial for Beginners 1, Install and Setup for Mac and Windows.md",
+    "3 - Permanent Notes/Python programming language.md",
+    "1 - Fleeting Notes/Amani Hoiva feedback.md",
+    "1 - Fleeting Notes/Virtual Machine.md",
+    "4 - Source/youtube/Coding2GO - Learn CSS before and after in 4 Minutes.md",
+    "Media/Pasted image 20250309134350.png",
+    "Media/Pasted image 20250309134117.png",
+    "Media/Pasted image 20250309134058.png",
+    "Media/Pasted image 20250309133717.png",
+    "Media/Pasted image 20250309133139.png",
+    "Media/Pasted image 20250309132248.png",
+    "1 - Fleeting Notes/Programming with Mosh - TypeScript Tutorial for Beginners.md",
+    "Media/intro.py",
+    "4 - Source/youtube/Dennis Ivy - Python Django Explained in 8 Minutes.md",
+    "Media/Pasted image 20250308235920.png",
+    "Media/Pasted image 20250308232206.png",
+    "Media/Pasted image 20250308231205.png",
+    "1 - Fleeting Notes/FreeCodeCamp.org - Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git.md",
+    "1 - Fleeting Notes/GIT sketch.md",
+    "1 - Fleeting Notes/Programming with Mosh - JavaScript Course for Beginners – Your First Step to Web Development.md",
+    "3 - Permanent Notes/WSGI toolkits vs WSGI web app framework.md",
+    "1 - Fleeting Notes/freeCodeCamp.org - APIs for Beginners - How to use an API  , Full Course - Tutorial).md",
+    "Media/Pasted image 20250301092459.png",
+    "1 - Fleeting Notes/JavaScript.md",
+    "1 - Fleeting Notes/Programming with Mosh - Django Tutorial for Beginners – Build Powerful Backends.md",
+    "1 - Fleeting Notes/Untitled 1.md",
+    "1 - Fleeting Notes/Scribbles.md",
+    "1 - Fleeting Notes/NATO FASHION HOUSE.md",
+    "3 - Permanent Notes/The SDLC Planning phase.md",
+    "3 - Permanent Notes/Software Development Life Cycle (SDLC).md",
+    "3 - Permanent Notes/The SDLC Requirement Analysis Phase.md",
+    "4 - Source/courses",
+    "4 - Source/articles"
+  ]
+}
