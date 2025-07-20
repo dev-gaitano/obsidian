@@ -1,3 +1,9 @@
+---
+id: FreeCodeCamp.org - Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git
+aliases: []
+tags: []
+---
+
 11:11 Sat 11th January 2025
 
 Status: teen
@@ -25,7 +31,7 @@ The staging phase allows you select specific file or parts of files to create th
 
 To stage specific files, we use the command,
 
-```
+```sh
 git add <file_name>
 ```
 
@@ -33,7 +39,7 @@ We should only combine files in a commit that have a related topic.
 
 To select ==specific parts of the file (patches)== we want to stage, we use the command,
 
-```
+```sh
 git add -p <file_name>
 ```
 
@@ -47,7 +53,7 @@ If you are struggling to come up with a short and concise subject, that means yo
 
 After staging the files, run the following command to open a window for adding a commit message.
 
-```
+```sh
 git commit
 ```
 
@@ -177,7 +183,7 @@ Even though you can't ignore a merge conflict, you can always undo the conflict.
 
 Some commands such as merge and rebase come with a command that allows you to undo the conflict.
 
-```
+```sh
 git merge --abort
 
 git rebase --abort
@@ -185,7 +191,7 @@ git rebase --abort
 
 To view the conflict you use the command,
 
-```
+```sh
 mate <file_name>
 ```
 
@@ -212,7 +218,7 @@ The clean up can be done in multiple ways:
 ##### Merge
 We use the command,
 
-```
+```sh
 git merge <branch_name>
 ```
 
@@ -246,7 +252,7 @@ Taking the scenario from the previous merge section, we want to merge branch A a
 
 We use the command,
 
-```
+```sh
 git rebase <branch_name>
 ```
 
