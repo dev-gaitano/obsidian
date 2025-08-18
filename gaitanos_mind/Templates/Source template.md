@@ -1,13 +1,17 @@
-{{time}} {{date}}
-
-Status:
-
-Tags: 
-
 ---
+id: 
+aliases: 
+tags: 
 Source: 
-Author:
+Author: 
+status:
+---
+---
+
+{{time}}, {{date}}
 
 ---
+
+
 
 ### See also:

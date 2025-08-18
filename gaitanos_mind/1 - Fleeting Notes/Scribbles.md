@@ -1,3 +1,30 @@
+---
+id: scribbles
+aliases: 
+tags: 
+Source: 
+Author: 
+status:
+---
+---
+
+cloudName = diwkfbsgv
+API Key = 943752341194978
+API Secret = 3xOFBEKSHBFj1-G4sI9dNsjoH6g
+
+Write a bash script that runs commands:
+
+```sh
+# window : 1
+nvim .
+
+# window : 2
+git status
+
+# window : 3
+# Prompt for server manager (npm, npx, python3?) and whatever else the prompt needs
+```
+
 ## SLDC Requirement Analysis
 
 A domain model/conceptual model
@@ -66,6 +93,10 @@ Create a new path
 	URL path
 	View
 Setup templates
+
+Nvim shortcuts
+shift+$
+shift+#
 
 
 
