@@ -8,6 +8,40 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9cabc8fcbe073b7b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2dffc04c87169007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Fleeting Notes/Todo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Todo"
+            }
+          },
+          {
             "id": "ac3a9733b7ed0049",
             "type": "leaf",
             "state": {
@@ -29,30 +63,6 @@
               },
               "icon": "lucide-file",
               "title": "Scribbles"
-            }
-          },
-          {
-            "id": "4356864860989885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Fleeting Notes/Mama mboga.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mama mboga"
             }
           },
           {
@@ -80,12 +90,12 @@
             }
           },
           {
-            "id": "9cabc8fcbe073b7b",
+            "id": "04122bf4beb82556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Fleeting Notes/Todo.md",
+                "file": "1 - Fleeting Notes/GSAP Learning - Introducing ScrollTrigger for GSAP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -96,15 +106,15 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "GSAP Learning - Introducing ScrollTrigger for GSAP"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,12 +257,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9cabc8fcbe073b7b",
+  "active": "04122bf4beb82556",
   "lastOpenFiles": [
+    "1 - Fleeting Notes/Untitled.base",
+    "1 - Fleeting Notes/GSAP Learning - Introducing ScrollTrigger for GSAP.md",
     "1 - Fleeting Notes/Workout Log.md",
-    "1 - Fleeting Notes/Todo.md",
     "1 - Fleeting Notes/Mama mboga.md",
     "1 - Fleeting Notes/Scribbles.md",
+    "4 - Source/youtube/Coding2GO - Learn CSS Positions in 4 minutes.md",
+    "1 - Fleeting Notes/Todo.md",
     "1 - Fleeting Notes/NATO Fashion House - Rebrand.md",
     "1 - Fleeting Notes/Programming with Mosh - TypeScript Tutorial for Beginners.md",
     "Templates/Source template.md",
@@ -266,7 +279,6 @@
     "1 - Fleeting Notes/Mama Fua",
     "1 - Fleeting Notes/mama fua.md",
     "1 - Fleeting Notes/1752943204-QWIG.md",
-    "4 - Source/youtube/Coding2GO - Learn CSS Positions in 4 minutes.md",
     "4 - Source/youtube/Corey Schafer - Python Tutorial for Beginners 1, Install and Setup for Mac and Windows.md",
     "3 - Permanent Notes/Python programming language.md",
     "1 - Fleeting Notes/Amani Hoiva feedback.md",
@@ -284,8 +296,6 @@
     "Media/Pasted image 20250308232206.png",
     "Media/Pasted image 20250308231205.png",
     "1 - Fleeting Notes/FreeCodeCamp.org - Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git.md",
-    "1 - Fleeting Notes/Programming with Mosh - JavaScript Course for Beginners – Your First Step to Web Development.md",
-    "3 - Permanent Notes/WSGI toolkits vs WSGI web app framework.md",
     "Media/Pasted image 20250301092459.png",
     "4 - Source/courses",
     "4 - Source/articles"
