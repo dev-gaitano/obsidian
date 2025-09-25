@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Template.md",
+                "file": "1 - Fleeting Notes/Lerne Deutsch mit Anja - Begrüßung auf Deutsch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Template"
+              "title": "Lerne Deutsch mit Anja - Begrüßung auf Deutsch"
             }
           },
           {
@@ -307,6 +307,12 @@
   },
   "active": "4b81fa478e0666b7",
   "lastOpenFiles": [
+    "5 - MOCs/MOC - Deutsch für beginners.md",
+    "5 - MOCs/MOC - Deutsch für beginners",
+    "5 - MOCs/'MOC - Deutsch für beginners'",
+    "5 - MOCs/1758817760-GHVU.md",
+    "1758817760-GHVU.md",
+    "Templates/Template.md",
     "v:null",
     "home/gaitano/obsidian/gaitanos_mind/1 - Fleeting Notes",
     "home/gaitano/obsidian/gaitanos_mind",
@@ -314,7 +320,6 @@
     "home/gaitano",
     "home",
     "Templates/Source template.md",
-    "Templates/Template.md",
     "1 - Fleeting Notes/Lerne Deutsch mit Anja - Begrüßung auf Deutsch.md",
     "4 - Source/youtube/Coding2GO - Learn CSS Positions in 4 minutes.md",
     "1 - Fleeting Notes/GSAP Learning - Introducing ScrollTrigger for GSAP.md",
@@ -338,20 +343,15 @@
     "4 - Source/youtube/Corey Schafer - Python Tutorial for Beginners 1, Install and Setup for Mac and Windows.md",
     "3 - Permanent Notes/Python programming language.md",
     "1 - Fleeting Notes/Amani Hoiva feedback.md",
-    "1 - Fleeting Notes/Virtual Machine.md",
-    "4 - Source/youtube/Coding2GO - Learn CSS before and after in 4 Minutes.md",
     "Media/Pasted image 20250309134350.png",
     "Media/Pasted image 20250309134117.png",
     "Media/Pasted image 20250309134058.png",
     "Media/Pasted image 20250309133717.png",
     "Media/Pasted image 20250309133139.png",
     "Media/Pasted image 20250309132248.png",
-    "Media/intro.py",
     "Media/Pasted image 20250308235920.png",
     "Media/Pasted image 20250308232206.png",
     "Media/Pasted image 20250308231205.png",
-    "Media/Pasted image 20250301092459.png",
-    "4 - Source/courses",
-    "4 - Source/articles"
+    "Media/Pasted image 20250301092459.png"
   ]
 }
