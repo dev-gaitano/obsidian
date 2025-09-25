@@ -1,10 +1,15 @@
-{{time}} {{date}}
+---
+id:
+aliases: []
+tags: []
+status:
+---
+---
 
-Status:
-
-Tags: 
+{{time}}, {{date}}
 
 ---
+
 
 
 ### See also:
