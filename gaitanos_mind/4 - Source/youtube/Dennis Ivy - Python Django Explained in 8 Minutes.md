@@ -1,6 +1,14 @@
-10:10 Sun 29th December 2024
+---
+id: Dennis Ivy - Python Django Explained in 8 Minutes
+aliases: []
+tags:
+  - django
+  - youtube
+  - frameworks
+  - webdevelopment
+---
 
-Tags: #django #youtube #frameworks #webdevelopment 
+10:10 Sun 29th December 2024
 
 ------------------------------------
 https://youtu.be/0sMtoedWaf0?si=gPmTULRSbTiBqg44
