@@ -4,6 +4,7 @@ aliases: []
 tags:
   - deutsch
   - grammar
+  - youtube
 Author: Learn German with Anja - https://youtu.be/iB_sassbnOw?si=MLXtsv9cmAw76OY4
 status: adult
 ---
@@ -43,7 +44,7 @@ status: adult
             sehen - see
 
     - Tschüss, tschüssi oder tschü
-        - All diese mean das same, it all boils down to preference.
+        - All dies mean das same, it all boils down to preference.
 
     - Bis später - Until later (literally!)
 
