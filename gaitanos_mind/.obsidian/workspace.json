@@ -112,57 +112,8 @@
               "icon": "lucide-file",
               "title": "Coding2GO - Learn CSS Positions in 4 minutes"
             }
-          },
-          {
-            "id": "4b81fa478e0666b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Template"
-            }
-          },
-          {
-            "id": "fef4ba3b75e10ef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Source template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Source template"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,8 +256,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4b81fa478e0666b7",
+  "active": "9cabc8fcbe073b7b",
   "lastOpenFiles": [
+    "4 - Source/youtube/Lerne Deutsch mit Anja - \"Ich heiße...\" auf Deutsch.md",
+    "1 - Fleeting Notes/Todo.md",
+    "4 - Source/youtube/Coding2GO - Learn CSS Positions in 4 minutes.md",
+    "Templates/Source template.md",
+    "Templates/Template.md",
     "1 - Fleeting Notes/Lerne Deutsch mit Anja - Begrüßung auf Deutsch.md",
     "4 - Source/youtube/Lerne Deutsch mit Anja - Begrüßung auf Deutsch.md",
     "1 - Fleeting Notes/Lerne Deutsch mit Anja - \"Ich heiße...\" auf Deutsch.md",
@@ -318,22 +274,18 @@
     "5 - MOCs/'MOC - Deutsch für beginners'",
     "5 - MOCs/1758817760-GHVU.md",
     "1758817760-GHVU.md",
-    "Templates/Template.md",
     "v:null",
     "home/gaitano/obsidian/gaitanos_mind/1 - Fleeting Notes",
     "home/gaitano/obsidian/gaitanos_mind",
     "home/gaitano/obsidian",
     "home/gaitano",
     "home",
-    "Templates/Source template.md",
-    "4 - Source/youtube/Coding2GO - Learn CSS Positions in 4 minutes.md",
     "1 - Fleeting Notes/GSAP Learning - Introducing ScrollTrigger for GSAP.md",
     "1 - Fleeting Notes/Notizen.md",
     "1 - Fleeting Notes/Scribbles.md",
     "1 - Fleeting Notes/Untitled.base",
     "1 - Fleeting Notes/Workout Log.md",
     "1 - Fleeting Notes/Mama mboga.md",
-    "1 - Fleeting Notes/Todo.md",
     "1 - Fleeting Notes/NATO Fashion House - Rebrand.md",
     "1 - Fleeting Notes/Programming with Mosh - TypeScript Tutorial for Beginners.md",
     "1 - Fleeting Notes/Use Effect scribble.md",
@@ -342,7 +294,6 @@
     "1 - Fleeting Notes/Corey Schafer - Python Tutorial for Beginners 2, Strings - Working with Textual Data.md",
     "1 - Fleeting Notes/GIT sketch.md",
     "1 - Fleeting Notes/Mama Fua.md",
-    "1 - Fleeting Notes/mama fua.md",
     "Media/Pasted image 20250309134350.png",
     "Media/Pasted image 20250309134117.png",
     "Media/Pasted image 20250309134058.png",
