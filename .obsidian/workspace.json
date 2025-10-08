@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaitanos_mind/1 - Fleeting Notes/Linux Dependencies.md",
+                "file": "gaitanos-mind/01-fleeting/CSS Sticky Position.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,69 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linux Dependencies"
+              "title": "CSS Sticky Position"
+            }
+          },
+          {
+            "id": "45c1ffdc9bad0bad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gaitanos-mind/03-permanent/Zettelkasten note making workflow.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zettelkasten note making workflow"
+            }
+          },
+          {
+            "id": "4c3fdfe4ac5f925b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gaitanos-mind/02-literature/youtube/Deutsch mit Anja/Lerne Deutsch mit Anja - Begrüßung auf Deutsch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lerne Deutsch mit Anja - Begrüßung auf Deutsch"
+            }
+          },
+          {
+            "id": "c3b0f4ce1fe1334b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,8 +143,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,8 +264,35 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8cf370cbe985bf5a",
+  "active": "c3b0f4ce1fe1334b",
   "lastOpenFiles": [
-    "gaitanos_mind/1 - Fleeting Notes/Ascend web app outline.md"
+    "gaitanos-mind/00-MOCs/MOC-lerne Deutsch mit Anja-Deutsch für beginners.md",
+    "gaitanos-mind/00-MOCs/MOC-Zettelkasten workflow.md",
+    "gaitanos-mind/00-MOCs/MOC-Python.md",
+    "gaitanos-mind/00-MOCs/MOC-Python packages.md",
+    "gaitanos-mind/00-MOCs/MOC-Producing a body of work.md",
+    "gaitanos-mind/00-MOCs",
+    "gaitanos-mind/02-literature/lerne Deutsch mit Anja - Wie sagt man \"Wie geht es dir?\" auf Deutsch.md",
+    "gaitanos-mind/02-literature/Lerne Deutsch mit Anja - Begrüßung auf Deutsch.md",
+    "gaitanos-mind/02-literature/Lerne Deutsch mit Anja - Wie sagt man \"Ich komme aus...\" auf Deutsch.md",
+    "gaitanos-mind/02-literature/Lerne Deutsch mit Anja - \"Ich heiße...\" auf Deutsch.md",
+    "gaitanos-mind/02-literature/CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript.md",
+    "gaitanos-mind/02-literature/Corey Schafer - Python Tutorial for Beginners 1, Install and Setup for Mac and Windows.md",
+    "gaitanos-mind/02-literature/BuddyFromIT - What is ERP.  System ERP , SAP for beginners.md",
+    "gaitanos-mind/02-literature/DevOps - Branching Strategies Explained.md",
+    "gaitanos-mind/02-literature/Coding2GO - Learn CSS before and after in 4 Minutes.md",
+    "gaitanos-mind/02-literature/Dennis Ivy - Python Django Explained in 8 Minutes.md",
+    "gaitanos-mind/02-literature/ForrestKnight - Everything You NEED to Know About Web App Architecture.md",
+    "gaitanos-mind/02-literature/Coding2GO - Learn CSS Positions in 4 minutes.md",
+    "gaitanos-mind/02-literature/IBM Technology - What is Enterprise Resource Planning (ERP) Software.md",
+    "gaitanos-mind/02-literature/IBM Technology - What is Django.md",
+    "gaitanos-mind/02-literature/Simplilearn - Introduction To Software Development LifeCycle , What Is Software Development , Simplilearn.md",
+    "gaitanos-mind/02-literature/Zakwan Fixentra - WordPress.md",
+    "gaitanos-mind/02-literature/Moringa - Active Listening.md",
+    "gaitanos-mind/02-literature/Moringa - Week 1 Learning Objectives.md",
+    "gaitanos-mind/02-literature/Moringa Orientation.md",
+    "gaitanos-mind/02-literature/Moringa - Learning How To Learn.md",
+    "gaitanos-mind/02-literature/Moringa -Basics of the Ubuntu Terminal.md",
+    "gaitanos-mind/Media/Pasted image 20240322021135.png"
   ]
 }

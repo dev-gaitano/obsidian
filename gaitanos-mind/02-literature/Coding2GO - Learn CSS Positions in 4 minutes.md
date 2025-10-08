@@ -1,10 +1,17 @@
+---
+id: Coding2GO - Learn CSS Positions in 4 minutes
+aliases: []
+tags: []
+---
+
 07:39 Sat 1st March 2025
 
 Status: adult
 
-Tags: #css #programming  #programminglanguage #webdevelopment #softwaredevelopment  #youtube 
+Tags: #css #programming #programminglanguage #webdevelopment #softwaredevelopment #youtube
 
-------------------------------------
+---
+
 Source: https://youtu.be/YEmdHbQBCSQ?si=lZczUDKjv8-5tRoY
 Author: Fabian - Full stack web developer
 
@@ -21,6 +28,7 @@ position: absolute;
 ```
 
 While using the all the other position attributes apart from 'static' we can use properties to position our element right where we want it to be;
+
 1. Top
 2. Bottom
 3. Left
@@ -28,6 +36,7 @@ While using the all the other position attributes apart from 'static' we can use
 5. Z-index
 
 #### 1. relative
+
 When we use the 'relative' attribute we offset the element relative to its default position (static position).
 
 ```css
@@ -43,6 +52,7 @@ This will move the element 30 pixels from the top and 30 pixels from the left as
 We can also use the right and bottom properties, depending on what we want to achieve in our design.
 
 #### 2. fixed
+
 This attribute will fixate the element to the window, this means if we have a scrollable design the element will stay fixed to the window and will not scroll with the other elements.
 
 This attribute place the element in a separate layer above all the other elements.
@@ -88,9 +98,12 @@ translate: -50% -50%;
 
 ![[Pasted image 20250301085450.png]]
 
-*NB: This is what those annoying pop-ups use when the want you to accept the cookies*
+_NB: This is what those annoying pop-ups use when the want you to accept the cookies_
 
 #### 3. sticky
+
+[[CSS Sticky Position]]
+
 A sticky element behaves just like a fixed element, but not until it reaches a specified sticking point.
 
 ```css
@@ -101,6 +114,7 @@ top: 0;
 In this case, the element will stick when it reaches the position where the top is 0 pixels from the element.
 
 #### 4. absolute
+
 This attribute positions the element relative to it's nearest ancestor with position property.
 
 For this example we need to define our HTML structure for better understanding.
@@ -108,26 +122,26 @@ For this example we need to define our HTML structure for better understanding.
 ```html
 ...
 <body>
-	<div class="parent">
-		<h2>Parent Element</h2>
-		<p>Lorem ipsum dolor sit amet con....</p>
-		
-		<div class="child">
-			<h2>Child Element</h2>
-		</div>
-	</div>
+  <div class="parent">
+    <h2>Parent Element</h2>
+    <p>Lorem ipsum dolor sit amet con....</p>
+
+    <div class="child">
+      <h2>Child Element</h2>
+    </div>
+  </div>
 </body>
 ...
 ```
 
 ```css
 .parent {
-	position: relative;
+  position: relative;
 }
 .child {
-	position: absolute;
-	top: 0;
-	right: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 ```
 
@@ -141,12 +155,11 @@ This only works because we also have a position property in the parent element. 
 
 ```css
 .parent {
-	
 }
 .child {
-	position: absolute;
-	top: 0;
-	right: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 ```
 
@@ -154,8 +167,11 @@ The child element would be positioned relative to the body as though we were usi
 
 ![[Pasted image 20250301092459.png]]
 
-The absolute attribute positions the element in a separate layer from all the other elements in the parent element, meaning our element will be on top of all the other elements. 
+The absolute attribute positions the element in a separate layer from all the other elements in the parent element, meaning our element will be on top of all the other elements.
 
 We can change the layer order of our elements using the 'z-index' property. If we assign negative values we put an element beneath all the others.
+
 ### See also:
+
 [[The CSS box Model]]
+

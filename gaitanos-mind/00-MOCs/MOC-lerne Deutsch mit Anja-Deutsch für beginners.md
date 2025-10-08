@@ -12,3 +12,6 @@ status: child
 # MOC - Deutsch für beginners
 
 Lektion 1 - [[Lerne Deutsch mit Anja - Begrüßung auf Deutsch|lerne Deutsch mit Anja - Begrüßung auf Deutsch]]
+Lektion 2 - [[Lerne Deutsch mit Anja - "Ich heiße..." auf Deutsch|lerne Deutsch mit Anja - "Ich heiße..." auf Deutsch]]
+lektion 3 - [[Lerne Deutsch mit Anja - Wie sagt man "Ich komme aus..." auf Deutsch]]
+lektion 4 - [[lerne Deutsch mit Anja - Wie sagt man "Wie geht es dir?" auf Deutsch]]

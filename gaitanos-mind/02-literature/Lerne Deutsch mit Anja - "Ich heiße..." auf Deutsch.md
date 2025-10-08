@@ -57,5 +57,5 @@ rude***
 
 ### See also:
 
-[[MOC - Deutsch für beginners]]
+[[MOC-lerne Deutsch mit Anja-Deutsch für beginners]]
 [[Lerne Deutsch mit Anja - Begrüßung auf Deutsch]]
