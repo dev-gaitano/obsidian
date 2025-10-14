@@ -88,6 +88,30 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "0c474ce2894165b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gaitanos-mind/03-permanent/Libraries.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Libraries"
+            }
           }
         ],
         "currentTab": 3
@@ -266,6 +290,23 @@
   },
   "active": "c3b0f4ce1fe1334b",
   "lastOpenFiles": [
+    "gaitanos-mind/01-fleeting/GSAP Tweens.md",
+    "gaitanos-mind/01-fleeting/GSAP Timelines.md",
+    "gaitanos-mind/01-fleeting/Untitled.md",
+    "Untitled.md",
+    "gaitanos-mind/GSAP Timelines.md",
+    "gaitanos-mind/03-permanent/Libraries.md",
+    "gaitanos-mind/01-fleeting/GreenSock Animation Platfom (GSAP) library.md",
+    "gaitanos-mind/GSAP Tweens.md",
+    "gaitanos-mind/https:/www.npmjs.com/package",
+    "gaitanos-mind/https:/www.npmjs.com",
+    "gaitanos-mind/https:",
+    "gaitanos-mind/01-fleeting/GSAP Plugins.md",
+    "gaitanos-mind/01-fleeting/GSAP Register Plugin.md",
+    "gaitanos-mind/01-fleeting/GSAP Learning - Introducing ScrollTrigger for GSAP.md",
+    "gaitanos-mind/GreenSock Animation Platfom (GSAP) React library.md",
+    "gaitanos-mind/GSAP Plugins.md",
+    "gaitanos-mind/GSAP Register Plugin.md",
     "gaitanos-mind/00-MOCs/MOC-lerne Deutsch mit Anja-Deutsch für beginners.md",
     "gaitanos-mind/00-MOCs/MOC-Zettelkasten workflow.md",
     "gaitanos-mind/00-MOCs/MOC-Python.md",
@@ -279,20 +320,6 @@
     "gaitanos-mind/02-literature/CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript.md",
     "gaitanos-mind/02-literature/Corey Schafer - Python Tutorial for Beginners 1, Install and Setup for Mac and Windows.md",
     "gaitanos-mind/02-literature/BuddyFromIT - What is ERP.  System ERP , SAP for beginners.md",
-    "gaitanos-mind/02-literature/DevOps - Branching Strategies Explained.md",
-    "gaitanos-mind/02-literature/Coding2GO - Learn CSS before and after in 4 Minutes.md",
-    "gaitanos-mind/02-literature/Dennis Ivy - Python Django Explained in 8 Minutes.md",
-    "gaitanos-mind/02-literature/ForrestKnight - Everything You NEED to Know About Web App Architecture.md",
-    "gaitanos-mind/02-literature/Coding2GO - Learn CSS Positions in 4 minutes.md",
-    "gaitanos-mind/02-literature/IBM Technology - What is Enterprise Resource Planning (ERP) Software.md",
-    "gaitanos-mind/02-literature/IBM Technology - What is Django.md",
-    "gaitanos-mind/02-literature/Simplilearn - Introduction To Software Development LifeCycle , What Is Software Development , Simplilearn.md",
-    "gaitanos-mind/02-literature/Zakwan Fixentra - WordPress.md",
-    "gaitanos-mind/02-literature/Moringa - Active Listening.md",
-    "gaitanos-mind/02-literature/Moringa - Week 1 Learning Objectives.md",
-    "gaitanos-mind/02-literature/Moringa Orientation.md",
-    "gaitanos-mind/02-literature/Moringa - Learning How To Learn.md",
-    "gaitanos-mind/02-literature/Moringa -Basics of the Ubuntu Terminal.md",
     "gaitanos-mind/Media/Pasted image 20240322021135.png"
   ]
 }

@@ -4,9 +4,9 @@ aliases:
   - GSAP Scroll Trigger
 tags:
   - gsap
+  - gsap-plugins
   - libraries
   - webdevelopment
-  - react
   - javascript
   - typescript
 status: child
@@ -19,7 +19,7 @@ status: child
 # GSAP Scroll Trigger
 
 The Scroll Trigger is a GSAP plugin that allows the developer to create
-animations linked to the page scroll using minimal code.
+animations linked to the page scroll using minimal code. [[GSAP Plugins]]
 
 Using NPM, it's setup like this;
 
@@ -37,7 +37,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 ```
 
 3. Register the Scroll Trigger plugin using the `registerPlugin()` gsap method.
-   ==Why?==
+   [[GSAP Register Plugin]]
 
 ```js
 gsap.registerPlugin(ScrollTrigger);
@@ -54,5 +54,6 @@ gsap.registerPlugin(ScrollTrigger);
 
 ### See also:
 
-[[GSAP Learning - Introducing ScrollTrigger for GSAP]]
 [[GSAP Scroll Trigger Usage]]
+[[GreenSock Animation Platfom (GSAP) library]]
+[[GSAP Learning - Introducing ScrollTrigger for GSAP]]

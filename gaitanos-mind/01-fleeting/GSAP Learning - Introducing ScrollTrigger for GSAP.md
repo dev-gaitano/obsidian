@@ -6,6 +6,7 @@ tags:
   - webdevelopment
   - javascript
   - libraries
+  - gsap-plugins
 Source: https://youtu.be/X7IBa7vZjmo?si=CHq9rLu233wsPv4b
 Author: GSAP Learning
 status: child
@@ -106,3 +107,5 @@ This will;
 
 
 ### See also:
+
+[[GreenSock Animation Platfom (GSAP) library|GreenSock Animation Platfom (GSAP) library]]
