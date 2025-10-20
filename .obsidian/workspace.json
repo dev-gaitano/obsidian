@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaitanos-mind/03-permanent/Libraries.md",
+                "file": "gaitanos-mind/03-permanent/Python programming language.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,7 +110,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Libraries"
+              "title": "Python programming language"
             }
           }
         ],
@@ -290,12 +290,19 @@
   },
   "active": "c3b0f4ce1fe1334b",
   "lastOpenFiles": [
+    "gaitanos-mind/03-permanent/*.md",
+    "gaitanos-mind/03-permanent/C Programming Language.md",
+    "gaitanos-mind/03-permanent/Hello World Program In C.md",
+    "gaitanos-mind/Hello World Program In C.md",
+    "gaitanos-mind/*.md",
+    "gaitanos-mind/03-permanent/Python programming language.md",
+    "gaitanos-mind/03-permanent/Libraries.md",
+    "gaitanos-mind/C Programming Language.md",
     "gaitanos-mind/01-fleeting/GSAP Tweens.md",
     "gaitanos-mind/01-fleeting/GSAP Timelines.md",
     "gaitanos-mind/01-fleeting/Untitled.md",
     "Untitled.md",
     "gaitanos-mind/GSAP Timelines.md",
-    "gaitanos-mind/03-permanent/Libraries.md",
     "gaitanos-mind/01-fleeting/GreenSock Animation Platfom (GSAP) library.md",
     "gaitanos-mind/GSAP Tweens.md",
     "gaitanos-mind/https:/www.npmjs.com/package",
@@ -313,13 +320,6 @@
     "gaitanos-mind/00-MOCs/MOC-Python packages.md",
     "gaitanos-mind/00-MOCs/MOC-Producing a body of work.md",
     "gaitanos-mind/00-MOCs",
-    "gaitanos-mind/02-literature/lerne Deutsch mit Anja - Wie sagt man \"Wie geht es dir?\" auf Deutsch.md",
-    "gaitanos-mind/02-literature/Lerne Deutsch mit Anja - Begrüßung auf Deutsch.md",
-    "gaitanos-mind/02-literature/Lerne Deutsch mit Anja - Wie sagt man \"Ich komme aus...\" auf Deutsch.md",
-    "gaitanos-mind/02-literature/Lerne Deutsch mit Anja - \"Ich heiße...\" auf Deutsch.md",
-    "gaitanos-mind/02-literature/CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript.md",
-    "gaitanos-mind/02-literature/Corey Schafer - Python Tutorial for Beginners 1, Install and Setup for Mac and Windows.md",
-    "gaitanos-mind/02-literature/BuddyFromIT - What is ERP.  System ERP , SAP for beginners.md",
     "gaitanos-mind/Media/Pasted image 20240322021135.png"
   ]
 }
