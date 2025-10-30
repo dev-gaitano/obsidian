@@ -26,5 +26,5 @@ Functionality.
 
 ### See also:
 
-[[GreenSock Animation Platfom (GSAP) library]]
+[[GreenSock Animation Platform (GSAP) library]]
 [[GSAP Register Plugin]]

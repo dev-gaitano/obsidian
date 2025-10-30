@@ -2,6 +2,6 @@ Once you start having a substantial amount of Zettels ([[What is a Zettel]]), cl
 At this point you can start asking yourself 'what if' questions, e.g. What if I connect this cluster with this other one? Start recording possible connections and start to explore them. ([[Exploring gaps for further investigations]])
 ### More info
 [[Connected thinking using Zettels]]
-[[MOC-Zettelkasten workflow]]
+[[MOC - Zettelkasten workflow]]
 Supercharge your PHD research with this note-taking system 
 https://youtu.be/R0CNzr9Q3ME?si=pGcf-LogcD5gwxZ6

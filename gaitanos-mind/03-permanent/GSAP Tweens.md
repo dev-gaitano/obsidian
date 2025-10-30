@@ -9,7 +9,7 @@ tags:
   - webdevelopment
   - javascript
   - typescript
-status: child
+status: adult
 ---
 
 16:29, Fri 10 October 2025
@@ -18,15 +18,15 @@ status: child
 
 # GSAP Tweens
 
-In GSAP, tweens do all the animation work.
+In GSAP, Tweens do all the animation work.
 
 You feed in;
 
 - "targets" - These are the objects you want to animate,
-- The Duration of the animation,
+- The duration of the animation,
 - The properties that you want it to animate.
 
-There are three main methods to create tweens;
+There are three main methods to create Tweens;
 
 ```jsx
 gsap.to();
@@ -54,5 +54,5 @@ option offers the most control over your animations.
 
 ### See also:
 
-[GSAP Docs](https://gsap.com/docs/v3/GSAP/)
-[[GreenSock Animation Platfom (GSAP) library]]
+[GSAP Docs](https://gsap.com/docs/v3/GSAP/Tween)
+[[GreenSock Animation Platform (GSAP) library]]

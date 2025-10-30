@@ -8,6 +8,6 @@
 3. Using automatic link generators.
 ### More info
 [[Connected thinking using Zettels]]
-[[MOC-Zettelkasten workflow]]
+[[MOC - Zettelkasten workflow]]
 Supercharge your PHD research with this note-taking system 
 https://youtu.be/R0CNzr9Q3ME?si=pGcf-LogcD5gwxZ6

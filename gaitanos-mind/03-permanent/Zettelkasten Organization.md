@@ -9,6 +9,6 @@
 		Creating folders and over tagging will end up creating a rigid structure that's hard to work with defeating the purpose of the Zettelkasten.
 ### More info
 [[Finding Zettels]]
-[[MOC-Zettelkasten workflow]]
+[[MOC - Zettelkasten workflow]]
 Supercharge your PHD research with this note-taking system 
 https://youtu.be/R0CNzr9Q3ME?si=pGcf-LogcD5gwxZ6

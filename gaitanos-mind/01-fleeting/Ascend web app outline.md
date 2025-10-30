@@ -62,7 +62,7 @@ A complete fully featured web app and mobile app
 		JavaScript
 	Frontend [[Framework]](s):
 
-**[[Backend]]**
+**Backend**
 	Backend Programming Language(s):
 		[[Python programming language]]
 	Backend Framework(s):

@@ -11,6 +11,6 @@ The most common approach to creating a body of work is usually the bottom up app
 ###### 7. Publishing out your work.
 
 ### More info
-[[MOC-Producing a body of work]]
+[[MOC - Producing a body of work]]
 Supercharge your PHD research with this note-taking system 
  https://youtu.be/R0CNzr9Q3ME?si=pGcf-LogcD5gwxZ6

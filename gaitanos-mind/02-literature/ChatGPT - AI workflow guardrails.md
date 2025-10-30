@@ -1,5 +1,3 @@
-# Gaitano’s Workflow Guardrails
-
 ## 1. Feature Freeze Before Tuning
 - No micro-optimizing until core features are done.
 - Ask: Does the main thing work fully?

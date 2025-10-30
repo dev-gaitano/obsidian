@@ -4,4 +4,4 @@ Each Zettel has its own unique ID. This ID is used to reference the notes in oth
 Each Zettel should be able to make sense on its own without having to reference the other Zettels.
 ### More info
 [[Zettelkasten note making workflow]]
-[[MOC-Zettelkasten workflow]]
+[[MOC - Zettelkasten workflow]]

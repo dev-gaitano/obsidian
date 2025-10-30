@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaitanos-mind/01-fleeting/CSS Sticky Position.md",
+                "file": "gaitanos-mind/01-fleeting/Workout Log.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CSS Sticky Position"
+              "title": "Workout Log"
             }
           },
           {
-            "id": "45c1ffdc9bad0bad",
+            "id": "f0eb5f3ef857d60e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaitanos-mind/03-permanent/Zettelkasten note making workflow.md",
+                "file": "gaitanos-mind/01-fleeting/POS system features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zettelkasten note making workflow"
-            }
-          },
-          {
-            "id": "4c3fdfe4ac5f925b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gaitanos-mind/02-literature/youtube/Deutsch mit Anja/Lerne Deutsch mit Anja - Begrüßung auf Deutsch.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lerne Deutsch mit Anja - Begrüßung auf Deutsch"
+              "title": "POS system features"
             }
           },
           {
@@ -88,33 +64,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "0c474ce2894165b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gaitanos-mind/03-permanent/Python programming language.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Python programming language"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 470.5
   },
   "right": {
     "id": "eb8b8d41b5532058",
@@ -288,38 +239,44 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c3b0f4ce1fe1334b",
+  "active": "f0eb5f3ef857d60e",
   "lastOpenFiles": [
-    "gaitanos-mind/03-permanent/*.md",
-    "gaitanos-mind/03-permanent/C Programming Language.md",
-    "gaitanos-mind/03-permanent/Hello World Program In C.md",
-    "gaitanos-mind/Hello World Program In C.md",
-    "gaitanos-mind/*.md",
-    "gaitanos-mind/03-permanent/Python programming language.md",
-    "gaitanos-mind/03-permanent/Libraries.md",
-    "gaitanos-mind/C Programming Language.md",
-    "gaitanos-mind/01-fleeting/GSAP Tweens.md",
-    "gaitanos-mind/01-fleeting/GSAP Timelines.md",
-    "gaitanos-mind/01-fleeting/Untitled.md",
-    "Untitled.md",
-    "gaitanos-mind/GSAP Timelines.md",
-    "gaitanos-mind/01-fleeting/GreenSock Animation Platfom (GSAP) library.md",
-    "gaitanos-mind/GSAP Tweens.md",
+    "gaitanos-mind/01-fleeting/Virtual Machine.md",
+    "gaitanos-mind/01-fleeting/Workout Log.md",
+    "gaitanos-mind/01-fleeting/Tech stack.md",
+    "gaitanos-mind/00-MOCs/MOC - Lerne Deutsch mit Anja - Deutsch für beginners.md",
+    "gaitanos-mind/00-MOCs/MOC - Zettelkasten workflow.md",
+    "gaitanos-mind/00-MOCs/MOC - The C Programming Language.md",
+    "gaitanos-mind/00-MOCs/MOC - Producing a body of work.md",
+    "gaitanos-mind/02-literature/ChatGPT - AI workflow guardrails.md",
+    "gaitanos-mind/00-MOCs/MOC - Python packages.md",
+    "gaitanos-mind/00-MOCs/MOC - Python.md",
+    "MOC - The C Programming Language.md",
+    "gaitanos-mind/01-fleeting/Triggers.md",
+    "gaitanos-mind/01-fleeting/Unified Modelling Language (UML).md",
+    "gaitanos-mind/01-fleeting/POS system features.md",
+    "gaitanos-mind/02-literature/Programming with Mosh - TypeScript Tutorial for Beginners.md",
+    "gaitanos-mind/01-fleeting/SAP S 4HANA.md",
+    "gaitanos-mind/01-fleeting/Integrating Power Automate & Python.md",
+    "gaitanos-mind/01-fleeting/Corey Schafer - Python Tutorial for Beginners 2, Strings - Working with Textual Data.md",
+    "gaitanos-mind/02-literature/FreeCodeCamp.org - Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git.md",
+    "gaitanos-mind/02-literature/GSAP Learning - Introducing ScrollTrigger for GSAP.md",
+    "gaitanos-mind/02-literature/Programming with Mosh - Django Tutorial for Beginners – Build Powerful Backends.md",
+    "gaitanos-mind/02-literature/Corey Schafer - Python Tutorial for Beginners 2, Strings - Working with Textual Data.md",
+    "gaitanos-mind/02-literature/The C Programming Language - 1.2 Variables and Arithmetic Expressions.md",
+    "gaitanos-mind/02-literature/CodeMode - Planning phase of software development life cycle (SDLC) , Planning phase , SDLC.md",
+    "gaitanos-mind/02-literature/Programming with Mosh - JavaScript Unit Testing Tutorial for Beginners.md",
+    "gaitanos-mind/02-literature/FreeCodeCamp - UML Diagrams Full Course (Unified Modeling Language).md",
+    "gaitanos-mind/02-literature/Arithmetic",
+    "gaitanos-mind/02-literature/and",
+    "gaitanos-mind/02-literature/Variables",
+    "gaitanos-mind/02-literature/1.2",
+    "gaitanos-mind/02-literature/Language",
+    "gaitanos-mind/02-literature/Programming",
+    "gaitanos-mind/02-literature/C",
+    "gaitanos-mind/02-literature/The",
     "gaitanos-mind/https:/www.npmjs.com/package",
     "gaitanos-mind/https:/www.npmjs.com",
-    "gaitanos-mind/https:",
-    "gaitanos-mind/01-fleeting/GSAP Plugins.md",
-    "gaitanos-mind/01-fleeting/GSAP Register Plugin.md",
-    "gaitanos-mind/01-fleeting/GSAP Learning - Introducing ScrollTrigger for GSAP.md",
-    "gaitanos-mind/GreenSock Animation Platfom (GSAP) React library.md",
-    "gaitanos-mind/GSAP Plugins.md",
-    "gaitanos-mind/GSAP Register Plugin.md",
-    "gaitanos-mind/00-MOCs/MOC-lerne Deutsch mit Anja-Deutsch für beginners.md",
-    "gaitanos-mind/00-MOCs/MOC-Zettelkasten workflow.md",
-    "gaitanos-mind/00-MOCs/MOC-Python.md",
-    "gaitanos-mind/00-MOCs/MOC-Python packages.md",
-    "gaitanos-mind/00-MOCs/MOC-Producing a body of work.md",
-    "gaitanos-mind/00-MOCs",
     "gaitanos-mind/Media/Pasted image 20240322021135.png"
   ]
 }

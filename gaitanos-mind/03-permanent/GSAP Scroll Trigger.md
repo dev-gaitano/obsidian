@@ -9,7 +9,7 @@ tags:
   - webdevelopment
   - javascript
   - typescript
-status: child
+status: adult
 ---
 
 19:42, Thu 02 October 2025
@@ -55,5 +55,5 @@ gsap.registerPlugin(ScrollTrigger);
 ### See also:
 
 [[GSAP Scroll Trigger Usage]]
-[[GreenSock Animation Platfom (GSAP) library]]
+[[GreenSock Animation Platform (GSAP) library]]
 [[GSAP Learning - Introducing ScrollTrigger for GSAP]]

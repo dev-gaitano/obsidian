@@ -50,5 +50,5 @@ status: adult
 
 ### See also:
 
-[[MOC-lerne Deutsch mit Anja-Deutsch für beginners]]
+[[MOC - Lerne Deutsch mit Anja - Deutsch für beginners]]
 [[Lerne Deutsch mit Anja - "Ich heiße..." auf Deutsch]]

@@ -7,6 +7,6 @@ In the Zettelkasten method notes are referred to as zettels ([[What is a Zettel]
 [[Differences between literature and permanent Zettels]]
 [[Richard Feymann Principle]]
 [[How do I know what Zettel to link]]
-[[MOC-Zettelkasten workflow]]
+[[MOC - Zettelkasten workflow]]
 Supercharge your PHD research with this note-taking system 
 https://youtu.be/R0CNzr9Q3ME?si=pGcf-LogcD5gwxZ6

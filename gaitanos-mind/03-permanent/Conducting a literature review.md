@@ -3,6 +3,6 @@ Do you notice any gaps in the work that the creator may have overlooked? ([[Expl
 ### More info
 [[Connected thinking using Zettels|Connected thinking using Zettels]]
 [[Building connections using Zettels|Building connections using Zettels]]
-[[MOC-Producing a body of work]]
+[[MOC - Producing a body of work]]
 Supercharge your PHD research with this note-taking system 
 https://youtu.be/R0CNzr9Q3ME?si=pGcf-LogcD5gwxZ6

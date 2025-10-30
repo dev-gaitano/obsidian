@@ -38,8 +38,8 @@ You can pass in as many plugins as possible as arguments in the
 gsap.registerPlugin(ScrollTrigger, MotionPathPlugin, TextPlugin);
 ```
 
-**_NB:Das ist kein Replacement für das Importing der GSAP Plugins_**
+**NB:This is not a replacement for importing GSAP plugins**
 
 ### See also:
 
-[[GreenSock Animation Platfom (GSAP) library]]
+[[GreenSock Animation Platform (GSAP) library]]

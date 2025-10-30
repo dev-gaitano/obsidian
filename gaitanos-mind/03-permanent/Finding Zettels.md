@@ -7,6 +7,6 @@
 7. Using Data view in Obsidian.
 ### More info
 [[Zettelkasten Organization]]
-[[MOC-Zettelkasten workflow]]
+[[MOC - Zettelkasten workflow]]
 Supercharge your PHD research with this note-taking system 
 https://youtu.be/R0CNzr9Q3ME?si=pGcf-LogcD5gwxZ6

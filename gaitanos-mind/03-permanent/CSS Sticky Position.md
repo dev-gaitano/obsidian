@@ -24,7 +24,7 @@ position: sticky;
 }
 ```
 
-This is one of a few value that can be passed into the `position` attributes in
+This is one of a few values that can be passed into the `position` attribute in
 CSS.
 
 This value allows an element to act like a relatively position until it reaches

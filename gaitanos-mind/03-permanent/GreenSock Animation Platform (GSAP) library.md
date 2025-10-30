@@ -8,14 +8,12 @@ tags:
   - webdevelopment
   - javascript
   - typescript
-status: child
+status: adult
 ---
 
 14:10, Thu 09 October 2025
 
 ---
-
-# GreenSock Animation Platfom (GSAP) React library
 
 GSAP is a framework-agnostic JavaScript library that simplifies the process of
 creating web animations. [[Libraries]]

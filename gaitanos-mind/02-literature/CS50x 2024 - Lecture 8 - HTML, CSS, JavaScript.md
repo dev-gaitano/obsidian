@@ -331,5 +331,5 @@ Frameworks make the development process easier.
 
 Bootstrap is a CSS framework.
 ### See also:
-[[Float CSS Present]]
+[[Moringa - Float and CSS Box Model Present]]
 [[The CSS box Model]]

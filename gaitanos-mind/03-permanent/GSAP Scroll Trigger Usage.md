@@ -9,7 +9,7 @@ tags:
   - webdevelopment
   - javascript
   - typescript
-status: child
+status: adult
 ---
 
 14:10, Fri 08 October 2025
@@ -25,23 +25,23 @@ It offers;
 
 - Scrub
 - Pinning
-- Snaping
-- Trigger (Anything scroll-based, not neccessarily animations)
+- Snapping
+- Trigger (Anything scroll-based, not necessarily animations)
 
-Hier ist eine simple example;
+Here is one simple example;
 
 ```jsx
 // Register ScrollTrigger plugin
 gsap.registerPlugin(ScrollTrigger);
 ```
 
-1. Use the gsap ".to()" method
+1. Use the gsap `.to()` method
 
 ```jsx
 gsap.to();
 ```
 
-2. Pass in zwei arguments into the method,
+2. Pass in two arguments into the method,
    - The target element (Using CSS selectors)
    - An object to define attributes you want to pass onto the target element
 
@@ -49,7 +49,7 @@ gsap.to();
 gsap.to(".box", {});
 ```
 
-3. In the second argument object, pass in the target value into the "scrollTrigger" key und any other attributes you need to achieve your desired your effect
+3. In the second argument object, pass in the target value into the `scrollTrigger` key and any other attributes you need to achieve your desired your effect
 
 ```jsx
 gsap.to(".box", {
@@ -58,10 +58,9 @@ gsap.to(".box", {
 });
 ```
 
-Für this example code, when an element mit the class ".box" comes into view, Es
-wille slide 500 pixels to the positive x axis (to the right).
+For this example code, when an element with the class `.box` comes into view, it will slide 500 pixels to the positive x axis (to the right).
 
 ### See also:
 
-[[GreenSock Animation Platfom (GSAP) library]]
+[[GreenSock Animation Platform (GSAP) library]]
 [[GSAP Learning - Introducing ScrollTrigger for GSAP]]

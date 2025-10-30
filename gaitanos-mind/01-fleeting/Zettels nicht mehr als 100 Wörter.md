@@ -24,4 +24,4 @@ should act as ein atomic idea while still acting as ein source für andere Zette
 ### See also:
 
 [Ben Vallack - My Super-Simple Approach To a Zettelkasten Knowledge Management System](https://youtu.be/Ck4TriLMR4s?si=wh2T4KuvRL78Yq8V)
-[[MOC-Zettelkasten workflow]]
+[[MOC - Zettelkasten workflow]]

@@ -1,9 +1,11 @@
+## Float
+
 What is a Float?
 A float is a CSS declaration
 
 What is a CSS declaration?
 These are rules that define how a specific HTML element should be styled.
-```
+```css
 p {
 	font-size: 20px;
 	font-weight: bold;
@@ -23,22 +25,22 @@ For example,
 1. Create HTML boiler plate
 2. Create image add id
 3. Create paragraph
-4. Link stylesheet
+4. Link style sheet
 5. Wrap text around image
 6. Create a second image
 7. Add another paragraph
 8. Wrap text around second images
 
-```
-/index.html
+```html
+<!-- index.html -->
 
 ...
 <img src="example.jpg" alt="Wrapped Image">
 <p>We want to wrap this text around our image</p>
 ```
 
-```
-/css/style.css
+```css
+/* css/style.css */
 
 ...
 img {
@@ -48,8 +50,7 @@ img {
 
 Floats can also be used to create columns in our website
 
-```
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -70,11 +71,46 @@ Floats can also be used to create columns in our website
   </body>
 </html>
 ```
-```
 
-```
+```css
 .column {  
   width: 350px;  
   float: left;  
 }
+```
+
+## CSS Box Model
+
+What is the box model?
+What does it do?
+Why is it important?
+
+All elements in CSS are a box either rectangular or square.
+
+Content - The element
+	Padding - add background to an element.
+		Border - add a border around the element
+			Margin - space two elements apart from each other
+
+```css
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+
+.box-one {
+    background-color: #EB5757;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid #9B51E0;
+    margin: 60px;
+}
+
+.box-two {
+    background-color: #2D9CDB;
+    border: 0 solid #27AE60;
+}
+
 ```

@@ -12,6 +12,6 @@
 			3. Thoughts are notes
 			4. Structure your notes in a way that will work best for you now and in future.
 ### More info
-[[MOC-Zettelkasten workflow]]
+[[MOC - Zettelkasten workflow]]
 Supercharge your PHD research with this note-taking system 
 https://youtu.be/R0CNzr9Q3ME?si=pGcf-LogcD5gwxZ6

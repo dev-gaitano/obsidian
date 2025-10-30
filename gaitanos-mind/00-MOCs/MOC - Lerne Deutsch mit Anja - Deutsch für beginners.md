@@ -8,9 +8,6 @@ tags:
 Author: Learn German with Anja - https://youtube.com/playlist?list=PLYzp2xhTw9W1Z9RvnCoveC0W7pkwUMHXy&si=hBbFq1FZGz-Hc84p
 status: child
 ---
-
-# MOC - Deutsch für beginners
-
 Lektion 1 - [[Lerne Deutsch mit Anja - Begrüßung auf Deutsch|lerne Deutsch mit Anja - Begrüßung auf Deutsch]]
 Lektion 2 - [[Lerne Deutsch mit Anja - "Ich heiße..." auf Deutsch|lerne Deutsch mit Anja - "Ich heiße..." auf Deutsch]]
 lektion 3 - [[Lerne Deutsch mit Anja - Wie sagt man "Ich komme aus..." auf Deutsch]]

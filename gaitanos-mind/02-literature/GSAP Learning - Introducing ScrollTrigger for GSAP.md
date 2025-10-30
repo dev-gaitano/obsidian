@@ -108,4 +108,4 @@ This will;
 
 ### See also:
 
-[[GreenSock Animation Platfom (GSAP) library|GreenSock Animation Platfom (GSAP) library]]
+[[GreenSock Animation Platform (GSAP) library|GreenSock Animation Platfom (GSAP) library]]

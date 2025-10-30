@@ -9,7 +9,7 @@ tags:
   - webdevelopment
   - javascript
   - typescript
-status: child
+status: adult
 ---
 
 09:51, Tue 14 October 2025
@@ -43,10 +43,10 @@ tl.to(".green", {x:100px, duration:1}) // Notice the lack of a semi-colon
   .to(".blue", {y:400px, duration:1});
 ```
 
-These tweens will be sequenced one after the other, starting with the green one,
-then the red one andd lastly the blue one.
+These Tweens will be sequenced one after the other, starting with the green one,
+then the red one and lastly the blue one.
 
-However, timeline children don't have to come one after another, they can overlap. This can be done using an optional argument that you can add to the timeline child, ==The Positional Argument==.
+However, timeline children don't have to come one after another, they can overlap. This can be done using an optional argument that you can add to the timeline child, **the Positional Argument**.
 
 A number sets the absolute time (in seconds) that the animation starts;
 
@@ -63,9 +63,9 @@ tl.to("red", {x:200px, duration:2}, "-=0.75")
   .to(".blue", {y:400px, duration:1} "+=0.75");
 ```
 
-In this case, the "red" target wil start 0.75 seconds before its default start time, while the "blue" one will start 0.75 seconds after its default start time.
+In this case, the "red" target will start 0.75 seconds before its default start time, while the "blue" one will start 0.75 seconds after its default start time.
 
 ### See also:
 
-[GSAP Docs](https://gsap.com/docs/v3/GSAP/)
-[[GreenSock Animation Platfom (GSAP) library]]
+[GSAP Docs](<https://gsap.com/docs/v3/GSAP/gsap.getProperty()>)
+[[GreenSock Animation Platform (GSAP) library]]

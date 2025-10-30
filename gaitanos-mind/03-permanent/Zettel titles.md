@@ -3,4 +3,4 @@
 3. Use conversational titles.
 4. Pose an idea or a question.
 ### More info
-[[MOC-Zettelkasten workflow]]
+[[MOC - Zettelkasten workflow]]

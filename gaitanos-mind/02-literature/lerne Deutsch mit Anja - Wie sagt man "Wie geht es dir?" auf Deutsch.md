@@ -59,4 +59,4 @@ Jetzt noch zwei typische fehler;
 
 ### See also:
 
-[[MOC-lerne Deutsch mit Anja-Deutsch für beginners]]
+[[MOC - Lerne Deutsch mit Anja - Deutsch für beginners]]
