@@ -2,7 +2,7 @@
 
 Status: adult
 
-Tags: #sdlc #projectmanagement #softwaredevelopment #webdevelopment 
+Tags: #sdlc #projectmanagement #softwaredevelopment 
 
 ---
 This phase in the [[Software Development Life Cycle (SDLC)]] sets the building blocks for the rest of the development process. It is the foundation of the development process.
