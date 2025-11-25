@@ -1,6 +1,6 @@
 10:53 Thu 2nd January 2025
 
-Tags: #youtube #sdlc #projectmanagement #webdevelopment #softwaredevelopment 
+Tags: #youtube #sdlc #projectmanagement #softwaredevelopment 
 
 ---
 https://youtu.be/Fi3_BjVzpqk?si=wcY-yI4lwWqhX4Yg

@@ -2,7 +2,7 @@
 
 Status: child
 
-Tags: #javascript #dom #programminglanguage #youtube
+Tags: #javascript #programminglanguage #youtube
 
 ------------------------------------
 https://youtu.be/5fb2aPlgoys?si=lGatJkmvorzfSF__
@@ -13,7 +13,7 @@ Stands for the Document Object Model.
 
 The DOM has many methods that be used to manipulate the content on our page.
 
-This is one of the most unique and useful tools in the [[JavaScript]].
+This is one of the most unique and useful tools in [[JavaScript]].
 
 Think of the DOM as a tree with branches,
 ![[Pasted image 20250125095415.png]]

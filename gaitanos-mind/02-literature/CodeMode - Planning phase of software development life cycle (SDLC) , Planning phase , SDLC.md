@@ -2,7 +2,7 @@
 
 Status: child
 
-Tags: #sdlc #projectmanagement #youtube #softwaredevelopment #webdevelopment
+Tags: #sdlc #projectmanagement #youtube #softwaredevelopment 
 
 ---
 https://youtu.be/pEIUZ7VrVNE?si=5aO6vn5TvgSu7jji

@@ -1,6 +1,6 @@
 14:30 Mon 13th January 2025
 
-Tags: #sdlc #webdevelopment #softwaredevelopment #projectmanagement 
+Tags: #sdlc #softwaredevelopment #projectmanagement 
 
 ------------------------------------
 [Software Engineering Requirements Analysis - javatpoint](https://www.javatpoint.com/software-engineering-requirement-analysis)

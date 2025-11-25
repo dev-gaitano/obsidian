@@ -2,7 +2,7 @@
 
 Status: adult
 
-Tags: #css #programminglanguage #youtube #webdevelopment #softwaredevelopment #programming 
+Tags: #css #programminglanguage #youtube #webdevelopment #programming 
 
 ---
 https://youtu.be/dIUOWdwwZBw?si=vVyPJBqvjQmaWF0r

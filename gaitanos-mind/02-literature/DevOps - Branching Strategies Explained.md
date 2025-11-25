@@ -1,6 +1,6 @@
 18:16 Mon 13th January 2025
 
-Tags: #versioncontrol #git #softwaredevelopment #gitbranching
+Tags: #versioncontrol #git #softwaredevelopment 
 
 ------------------------------------
 https://youtu.be/U_IFGpJDbeU?si=XM8uig39lC8BYF6X
@@ -57,5 +57,4 @@ This strategy assumes we need a branch for every environment.
 ### See also:
 [[Moringa - Intro to Git]]
 [[Moringa - Git & GitHub pages]]
-[[GIT sketch]]
 [[FreeCodeCamp.org - Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git]]

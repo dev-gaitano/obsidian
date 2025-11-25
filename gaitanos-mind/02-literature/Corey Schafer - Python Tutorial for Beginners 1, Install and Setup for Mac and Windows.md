@@ -2,7 +2,7 @@
 
 Status: adult
 
-Tags: #python #programminglanguage #softwaredevelopment #youtube 
+Tags: #python #programminglanguage #programming #youtube 
 
 ---
 https://youtu.be/YYXdXT2l-Gg?si=pYd3_bebLVOdSv23

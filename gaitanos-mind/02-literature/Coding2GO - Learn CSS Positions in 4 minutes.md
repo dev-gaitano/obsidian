@@ -8,7 +8,7 @@ tags: []
 
 Status: adult
 
-Tags: #css #programming #programminglanguage #webdevelopment #softwaredevelopment #youtube
+Tags: #css #programming #programminglanguage #webdevelopment  #youtube
 
 ---
 
@@ -172,6 +172,3 @@ The absolute attribute positions the element in a separate layer from all the ot
 We can change the layer order of our elements using the 'z-index' property. If we assign negative values we put an element beneath all the others.
 
 ### See also:
-
-[[The CSS box Model]]
-

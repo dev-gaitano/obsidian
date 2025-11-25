@@ -1,6 +1,6 @@
 12:08 Mon 13th January 2025
 
-Tags: #sdlc #softwaredevelopment #webdevelopment #projectmanagement
+Tags: #sdlc #softwaredevelopment #projectmanagement
 
 ------------------------------------
 [Activities involved in Software Requirement Analysis - GeeksforGeeks](https://www.geeksforgeeks.org/activities-involved-in-software-requirement-analysis/)

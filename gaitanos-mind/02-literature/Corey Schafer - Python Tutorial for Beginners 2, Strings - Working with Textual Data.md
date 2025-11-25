@@ -2,7 +2,7 @@
 
 Status: child
 
-Tags: #python #programminglanguage #softwaredevelopment #youtube 
+Tags: #python #programminglanguage #programming #youtube 
 
 ---
 https://youtu.be/k9TUPpGqYTo?si=5XbqQpQ-lcbpgeUu
