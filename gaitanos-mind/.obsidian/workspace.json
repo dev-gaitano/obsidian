@@ -8,67 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cabc8fcbe073b7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Fleeting Notes/CSS Sticky Position.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CSS Sticky Position"
-            }
-          },
-          {
-            "id": "4429c406303d84a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Fleeting Notes/GSAP Scroll Trigger.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "GSAP Scroll Trigger"
-            }
-          },
-          {
-            "id": "81402d60990836bc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
-          },
-          {
-            "id": "466174c11771622a",
+            "id": "a0eda24327bff598",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -77,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mvp ",
+                "query": "tag:deutsch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,53 +160,53 @@
       "random-note:Open random note": false
     }
   },
-  "active": "81402d60990836bc",
+  "active": "a0eda24327bff598",
   "lastOpenFiles": [
-    "4 - Source/youtube/Coding2GO - Learn CSS Positions in 4 minutes.md",
-    "1 - Fleeting Notes/CSS Sticky Position.md",
-    "1 - Fleeting Notes/GSAP Scroll Trigger.md",
-    "GSAP Scroll Trigger.md",
-    "1 - Fleeting Notes/Warum Zettels nicht mehr als 100 Wörter.md",
-    "CSS Sticky Position.md",
-    "1759398350-NAET.md",
-    "2 - Literature Notes/lerne Deutsch mit Anja - Wie sagt man \"Wie geht es dir?\" auf Deutsch.md",
-    "1 - Fleeting Notes/lerne Deutsch mit Anja - Wie sagt man \"Wie geht es dir?\" auf Deutsch.md",
-    "1 - Fleeting Notes/Wie sagt man \"Wie geht es dir?\" auf Deutsch.md",
-    "Wie sagt man \"Wie geht es dir?\" auf Deutsch.md",
-    "1759305075-NSAZ.md",
-    "2 - Literature Notes/Lerne Deutsch mit Anja - \"Ich heiße...\" auf Deutsch.md",
-    "2 - Literature Notes/Lerne Deutsch mit Anja - Begrüßung auf Deutsch.md",
-    "2 - Literature Notes/Lerne Deutsch mit Anja - Wie sagt man \"Ich komme aus...\" auf Deutsch.md",
-    "1 - Fleeting Notes/Lerne Deutsch mit Anja - Wie sagt man \"Ich komme aus...\" auf Deutsch.md",
-    "1 - Fleeting Notes/Lerne Deutsch mit Anja - Wie zu sagen \"Ich komme aus...\" auf Deutsch.md",
+    "03-permanent/Mean Squared Error.md",
+    "01-fleeting/Variable.md",
+    "03-permanent/Residual.md",
+    "03-permanent/Independent Variable.md",
+    "03-permanent/Coefficient of Determination.md",
+    "03-permanent/Simple Linear Regression.md",
+    "03-permanent/Variable.md",
+    "03-permanent/Gradient Descent.md",
+    "03-permanent/Linear Regression.md",
+    "03-permanent/Dependent Variable.md",
+    "01-fleeting/Linear Regression.md",
+    "01-fleeting/Simple Linear Regression.md",
+    "01-fleeting/Coefficient of Determination.md",
+    "01-fleeting/Mean Squared Error.md",
+    "01-fleeting/Dependent Variable.md",
+    "01-fleeting/Residual.md",
+    "01-fleeting/Gradient Descent.md",
+    "01-fleeting/Independent Variable.md",
+    "01-fleeting/Zettels nicht mehr als 100 Wörter.md",
+    "Media/gradient_descent.webm",
+    "Media/gradient_descent.svg",
+    "Media/residual.png",
+    "Media/simple_linear_regression.png",
+    "Media/Linear_regression.png",
+    "getting started w/ algotrading.md",
+    "getting started w",
+    "Discount Rate.md",
+    "Untitled.base",
+    "03-permanent/'-m' flag.md",
+    "Media/{A8FFCBD6-6EE8-451D-9006-8613128326DF}.png",
+    "03-permanent/Lighting and Rendering in an animation production pipeline.md",
+    "02-literature/Learn Flask for Python(FreeCodeCamp.org).md",
+    "03-permanent/Flask web application framework for python.md",
+    "01-fleeting/Integrating Power Automate & Python.md",
+    "3 - Permanent Notes",
     "1 - Fleeting Notes/Lerne Deutsch mit Anja - Wie zu sagen \"Ich komme aus...\" auf Deutsch",
-    "1 - Fleeting Notes/1759218366-AURE.md",
-    "1759218366-AURE.md",
-    "4 - Source/youtube/Lerne Deutsch mit Anja - Begrüßung auf Deutsch.md",
-    "1 - Fleeting Notes/Nicht mehr als 100 Wörter.md",
-    "5 - MOCs/MOC-Zettelkasten workflow.md",
-    "3 - Permanent Notes/What is a Zettel.md",
-    "1 - Fleeting Notes/GSAP Learning - Introducing ScrollTrigger for GSAP.md",
-    "1 - Fleeting Notes/Todo.md",
-    "Nicht mehr als 100 Wörter.md",
     "1 - Fleeting Notes/Lerne Deutsch mit Anja - \"Ich heiße...\" auf Deutsch",
     "5 - MOCs/MOC - Deutsch für beginners",
     "5 - MOCs/'MOC - Deutsch für beginners'",
     "v:null",
     "home/gaitano/obsidian/gaitanos_mind/1 - Fleeting Notes",
-    "home/gaitano/obsidian/gaitanos_mind",
-    "home/gaitano/obsidian",
-    "home/gaitano",
-    "home",
     "Media/Pasted image 20250309134350.png",
     "Media/Pasted image 20250309134117.png",
     "Media/Pasted image 20250309134058.png",
     "Media/Pasted image 20250309133717.png",
-    "Media/Pasted image 20250309133139.png",
-    "Media/Pasted image 20250309132248.png",
-    "Media/Pasted image 20250308235920.png",
-    "Media/Pasted image 20250308232206.png",
-    "Media/Pasted image 20250308231205.png",
-    "Media/Pasted image 20250301092459.png"
+    "Media/Pasted image 20250309133139.png"
   ]
 }
