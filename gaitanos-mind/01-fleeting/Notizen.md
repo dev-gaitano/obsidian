@@ -9,13 +9,45 @@ tags: []
 17:29, Thu 25 September 2025
 
 ---
-## Mama Mboga
+
+# Machine Learning
+
+1. Get Live market data using APIs
+2. Find external Datasets.
+3. Build a prediction Model.
+4. Backtest
+5. Package
+
+**Quant Developer**
+
+Math - 3
+Coding - 5
+    Python/C++
+Finance - 2
+
+### Method 2
+
+1. Form a hypothesis
+2. Find Data
+3. Reshape the data
+4. Clean the Data
+5. Error Metric
+6. Split Data
+7. Train the data
+
+### Important
+Problem
+Quality of data
+Accuracy of the model
+
+
+# Mama Mboga
 
 Stalls
 from local farmers
 delivery to mama mboga
 
-## Mama Fua
+# Mama Fua
 
 Uber but for mama fuas
 
@@ -24,7 +56,7 @@ Mobile first UI/UX
 Kenyan Trust worthy color palette
 
 
-## useEffect
+# useEffect
 
 Use Effect's callback function cannot be an async function, so if you need an async function you have to define another function inside of the callback, for example;
 
@@ -47,14 +79,14 @@ useEffect(async() => {
 ```
 
 
-## Oh My Zsh
+# Oh My Zsh
 
 [Home · ohmyzsh/ohmyzsh Wiki · GitHub](https://github.com/ohmyzsh/ohmyzsh/wiki)
 
 https://dominikrys.com/posts/zsh-in-git-bash-on-windows/
 
 
-## Git Sketch
+# Git Sketch
 
 1. Configure the ssh key. This will be used later when connecting our local repository to our remote one
 
@@ -93,6 +125,6 @@ touch new_file.html
 code .
 ```
 
-## To-do
+# To-do
 
 - [ ] Obsidian Follow link function
