@@ -1,10 +1,16 @@
-19:18 Fri 21st February 2025
+---
+id: POS system
+aliases: []
+tags:
+  - personalproject
+status: child
+---
+---
 
-Status: child
+19:18, Fri 21st February 2025
 
-Tags: 
+---
 
-------------------------------------
 Greeting - 'Welcome, \<username>' , this can also be time-based, e.g. 'Good morning, \<username>'
 Today's Total Sales - vs yesterday's sales(smaller font)
 Today's Top salesperson - Name , total sales

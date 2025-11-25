@@ -1,8 +1,18 @@
-12:44 Wed 25th December 2024
+---
+id: Ascend web app
+aliases: []
+tags:
+  - softwaredevelopment
+  - erp
+  - personalproject
+status: child
+---
+---
 
-Tags: #webappdevelopment #webapplications #webdevelopment #projectmanagement #erp 
+12:44, Wed 25th December 2024
 
-------------------------------------
+---
+
 **"Ascend. Elevate. Grow"**
 
 *"Ascend provides a set of tools that will save your company 70% a year on accounting and management costs"*
