@@ -9,7 +9,7 @@ https://youtu.be/ciz2UaifaNM?si=6kMLblLC8KxY9_AQ
 David J. Malan - Gordon McKay Professor of the Practice of Computer Science - Harvard University
 
 **THE INTERNET**
-Was Initially a project called ARPANET by the the US Department of defense to internetwork computers to enable them to exchange data in between the computers.
+Was Initially a project called ARPANET by the the US Department of defense to inter network computers to enable them to exchange data in between the computers.
 
 This data exchange is done through packets.
 
@@ -254,6 +254,7 @@ The name of the tag tells the browser what the content inside the tag is, "head"
 ==Why isn't my video playing?==
 
 **CSS**
+
 In CSS attributes are called properties.
 
 We use selectors in order to select specific HTML elements and tags and style them.
@@ -332,4 +333,3 @@ Frameworks make the development process easier.
 Bootstrap is a CSS framework.
 ### See also:
 [[Moringa - Float and CSS Box Model Present]]
-[[The CSS box Model]]
