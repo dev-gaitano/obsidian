@@ -2,7 +2,7 @@
 
 Status: adult
 
-Tags: #softwaredevelopment #webdevelopment #projectmanagement #sdlc
+Tags: #softwaredevelopment #projectmanagement #sdlc
 
 ---
 It's a process.

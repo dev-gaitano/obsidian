@@ -2,7 +2,7 @@
 
 Status: teen
 
-Tags: #sdlc #projectmanagement #softwaredevelopment #webdevelopment
+Tags: #sdlc #projectmanagement #softwaredevelopment 
 
 ------------------------------------
 The purpose of this phase in the SDLC, is to analyze and understand each of the software requirements we received from the stakeholders in the [[The SDLC Planning phase]].

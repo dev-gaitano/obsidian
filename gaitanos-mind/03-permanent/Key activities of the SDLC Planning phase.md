@@ -2,7 +2,7 @@
 
 Status: adult
 
-Tags: #sdlc #ChatGPT #projectmanagement #softwaredevelopment #webdevelopment
+Tags: #sdlc #ChatGPT #ai #projectmanagement #softwaredevelopment 
 
 ---
 1. Identifying the Objectives

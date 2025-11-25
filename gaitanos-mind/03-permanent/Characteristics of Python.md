@@ -11,7 +11,7 @@
 
 4. **Extensive Library**-Python has a wide range of [[Libraries]] that can be installed, e.g. 'sqlalchemy' making the code less bulky and the process more efficient.
 
-5. **Dynamically Typed**-The developer doesn't have to specify a variable's type, python checks the character type and automatically assigns the appropriate variable type to it. ([[Variables]])
+5. **Dynamically Typed**-The developer doesn't have to specify a variable's type, python checks the character type and automatically assigns the appropriate variable type to it. ([[Variables (Programming)]])
 
 **See also**
 [[Python programming language]]

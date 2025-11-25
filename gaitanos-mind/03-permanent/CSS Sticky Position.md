@@ -5,7 +5,6 @@ aliases:
 tags:
   - css
   - programming
-  - styling
   - webdevelopment
 status: adult
 ---

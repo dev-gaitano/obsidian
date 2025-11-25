@@ -28,5 +28,4 @@ Git helps you build amazing things with others without loosing track.
 [[Moringa - Intro to Git]]
 [[Moringa - Git & GitHub pages]]
 [[DevOps - Branching Strategies Explained]]
-[[GIT sketch]]
 [[FreeCodeCamp.org - Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git]]

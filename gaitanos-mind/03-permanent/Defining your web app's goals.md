@@ -1,6 +1,6 @@
 10:31 Wed 25th December 2024
 
-Tags: #webapplications #webdevelopment #ChatGPT #webappdevelopment
+Tags: #webdevelopment #ChatGPT #ai 
 
 ------------------------------------
 1. [[Defining the purpose of your web app]].

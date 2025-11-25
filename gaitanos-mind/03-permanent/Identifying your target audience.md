@@ -1,6 +1,6 @@
 11:18 Wed 25th December 2024
 
-Tags: #ChatGPT #webapplications #webdevelopment #webappdevelopment 
+Tags: #ChatGPT #ai #webdevelopment 
 
 ------------------------------------
 Who is experiencing the problems that your web app solves?

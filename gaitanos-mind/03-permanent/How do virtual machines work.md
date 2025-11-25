@@ -4,6 +4,6 @@ Multiple VMs can be hosted on one physical machine by running each VM on a separ
 This partitioning is managed by a software layer called a [[Hypervisor]].
 
 **See also**
-[[3 - Permanent Notes/Virtual machine]]
+[[Virtual machine]]
 [What Is A Virtual Machine? VM Uses and Benefits | Google Cloud](https://cloud.google.com/learn/what-is-a-virtual-machine)
 

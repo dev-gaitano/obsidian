@@ -1,6 +1,6 @@
 11:17 Wed 25th December 2024
 
-Tags: #ChatGPT #webapplications #webdevelopment #webappdevelopment 
+Tags: #ChatGPT #ai #webdevelopment 
 
 ------------------------------------
 Understand the purpose of your web app project.

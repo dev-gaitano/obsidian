@@ -1,4 +1,4 @@
-A template engine is a tool that combines data with [[3 - Permanent Notes/Template]] and provides an output.
+A template engine is a tool that combines data with [[Template]] and provides an output.
 They are Included as a part of web application [[Framework]].
 Examples of template engines are :
 	[[Jinja]].

@@ -1,6 +1,6 @@
 11:20 Wed 25th December 2024
 
-Tags: #ChatGPT #webappdevelopment #webapplications #webdevelopment 
+Tags: #ChatGPT  #ai #webdevelopment 
 
 ------------------------------------
 Categorize your app features into two sections:

@@ -1,6 +1,6 @@
 11:21 Wed 25th December 2024
 
-Tags: #ChatGPT #webappdevelopment #webapplications #webdevelopment 
+Tags: #ChatGPT #ai #webdevelopment 
 
 ------------------------------------
 "You can't acknowledge something you don't know exists."

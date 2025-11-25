@@ -6,7 +6,6 @@ tags:
   - c
   - programming
   - programminglanguage
-  - sofwaredevelopment
 status: adult
 ---
 
