@@ -4,7 +4,6 @@ aliases:
   - GSAP Register Plugin
 tags:
   - gsap
-  - gsap-plugins
   - libraries
   - webdevelopment
   - javascript
@@ -27,7 +26,7 @@ arguments.
 
 Registering a Plugin allows GSAP's core to work seamlessly with the plugins by making it
 more aware of the individual plugins and also prevents Tree Shaking by build
-tools and/or bunders.
+tools and/or bundlers.
 
 You only need to register a plugin once before using it.
 

@@ -4,7 +4,6 @@ aliases:
   - GSAP Tweens
 tags:
   - gsap
-  - gsap-methods
   - libraries
   - webdevelopment
   - javascript

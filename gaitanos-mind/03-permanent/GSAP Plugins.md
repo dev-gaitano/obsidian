@@ -4,7 +4,6 @@ aliases:
   - GSAP Plugins
 tags:
   - gsap
-  - gsap-plugins
   - libraries
   - webdevelopment
   - javascript

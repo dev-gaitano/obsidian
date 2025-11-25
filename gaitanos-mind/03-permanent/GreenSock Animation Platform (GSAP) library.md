@@ -15,8 +15,8 @@ status: adult
 
 ---
 
-GSAP is a framework-agnostic JavaScript library that simplifies the process of
-creating web animations. [[Libraries]]
+GSAP is a framework-agnostic [[JavaScript]] library that simplifies the process of
+creating web animations. ([[Libraries]])
 
 It can be installed through;
 

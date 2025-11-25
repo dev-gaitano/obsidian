@@ -4,7 +4,6 @@ aliases:
   - GSAP Timelines
 tags:
   - gsap
-  - gsap-methods
   - libraries
   - webdevelopment
   - javascript

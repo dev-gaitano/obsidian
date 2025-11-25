@@ -4,7 +4,6 @@ aliases:
   - GSAP Scroll Trigger
 tags:
   - gsap
-  - gsap-plugins
   - libraries
   - webdevelopment
   - javascript
