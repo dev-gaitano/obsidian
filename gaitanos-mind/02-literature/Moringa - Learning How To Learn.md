@@ -1,6 +1,6 @@
 15:31 Tue 7th January 2025
 
-Tags: #moringaschool #learningtolearn #webdevelopment #softwaredevelopment
+Tags: #moringaschool #learning #softwaredevelopment
 
 ---
 [Learning How to Learn: Foundation of Software Development](https://learn.moringaschool.com/courses/156/pages/learning-how-to-learn?module_item_id=23650)

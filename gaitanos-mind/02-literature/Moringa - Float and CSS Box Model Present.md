@@ -1,3 +1,19 @@
+---
+id: Moringa - Float and CSS Box Model Present
+aliases: []
+tags:
+  - moringaschool
+  - webdevelopment
+  - css
+  - programming
+status: adult
+---
+---
+
+12:29, Tue 04 November 2025
+
+---
+
 ## Float
 
 What is a Float?

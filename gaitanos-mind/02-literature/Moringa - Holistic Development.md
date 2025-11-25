@@ -1,6 +1,6 @@
 00:14 Wed 8th January 2025
 
-Tags: #moringaschool #softwaredevelopment #webdevelopment
+Tags: #moringaschool #softwaredevelopment 
 
 ------------------------------------
 [Active Listening: Foundation of Software Development](https://learn.moringaschool.com/courses/156/pages/active-listening?module_item_id=23652)

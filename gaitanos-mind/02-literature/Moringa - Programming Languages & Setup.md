@@ -1,6 +1,6 @@
 12:48 Wed 8th January 2025
 
-Tags: #moringaschool #programming #softwaredevelopment #webdevelopment
+Tags: #moringaschool #programming #softwaredevelopment 
 
 ------------------------------------
 A program is a set of commands that tell the computer what to do
