@@ -15,7 +15,7 @@ status: adult
 
 ---
 
-Any variable that stands for a value chosen without a clear rule or pattern is
+Any [[Variable|variable]] that stands for a value chosen without a clear rule or pattern is
 considered and Independent variable.
 
 ### See also:

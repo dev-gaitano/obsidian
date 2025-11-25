@@ -15,7 +15,7 @@ status: adult
 
 ---
 
-A variable is considered **dependent** if it depends, or is hypothesized to on
+A [[Variable|variable]] is considered **dependent** if it depends, or is hypothesized to on
 the values of an [[Independent Variable|Independent variable]].
 
 This dependency has to be implemented by some sort of rule or law. For example,
