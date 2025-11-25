@@ -5,7 +5,6 @@ aliases:
 tags:
   - programming
   - hackathon
-  - hackathonSolution
   - ai
 status: child
 ---
@@ -19,7 +18,7 @@ status: child
 ## What do we need to achieve?
 
 - A real world problem
-- An Ai Solution
+- An AI Solution
 
 ## What is our "Real World" Problem?
 

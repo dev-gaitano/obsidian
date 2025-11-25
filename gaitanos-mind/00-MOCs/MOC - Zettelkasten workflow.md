@@ -2,7 +2,7 @@
 
 Status: adult
 
-Tags: #learning #learningtolearn #zettelkasten
+Tags: #learning #zettelkasten
 
 ------------------------------------
 [[What is a Zettel]]

@@ -1,10 +1,16 @@
-19:20 Fri 21st February 2025
+---
+id: Jasmijn Schrofer
+aliases: []
+tags:
+  - personalproject
+status: child
+---
+---
 
-Status: child
+19:20, Fri 21st February 2025
 
-Tags: 
+---
 
-------------------------------------
 Homepage
 	
 Project page
