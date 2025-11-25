@@ -1,8 +1,19 @@
-07:22 Sun 29th December 2024
+---
+id: Django web application framework for python
+aliases: []
+tags:
+  - django
+  - python
+  - frameworks
+  - webdevelopment
+status: adult
+---
+---
 
-Tags: #webdevelopment #frameworks #python #django
+07:22, Sun 29th December 2024
 
-------------------------------------
+---
+
 Django is a [[Python programming language]] web application development [[Framework]].
 
 ### See also:
