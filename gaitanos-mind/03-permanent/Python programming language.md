@@ -3,8 +3,7 @@
 Tags:  #python #programminglanguage #programming #softwaredevelopment 
 
 ------------------------------------
-Python is a multipurpose programming ([[Programming]]) language known for its readability and ease of use.
-
+Python is a multipurpose [[Programming|programming]] language known for its readability and ease of use.
 ### See also:
 [[Characteristics of Python]]
 [[How to install python for windows]]

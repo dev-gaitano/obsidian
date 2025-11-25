@@ -66,7 +66,7 @@ A complete fully featured web app and mobile app
 
 **[[TECH STACK]]**
 **Frontend**
-	Frontend Programming language(s):
+	Frontend [[Programming]] language(s):
 		HTML
 		CSS
 		JavaScript

@@ -15,7 +15,7 @@ status: adult
 
 # C Programming Language
 
-C is a general-purpose programing Language and a successor to the B Programing
+C is a general-purpose [[Programming|programming]] Language and a successor to the B Programing
 Language.
 
 The language gives the programmer [[*]]relatively direct access to the CPU Hardware.

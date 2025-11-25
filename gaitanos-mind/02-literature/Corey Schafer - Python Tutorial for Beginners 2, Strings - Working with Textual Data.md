@@ -1,14 +1,21 @@
-09:31 Sun 9th March 2025
+---
+id: Corey Schafer - Python Tutorial for Beginners 2, Strings - Working with Textual Data
+aliases: []
+tags:
+  - python
+  - programminglanguage
+  - programming
+  - youtube
+Author: Corey Schafer - YouTuber
+Source: https://youtu.be/k9TUPpGqYTo?si=5XbqQpQ-lcbpgeUu
+status: child
+---
+---
 
-Status: child
-
-Tags: #python #programminglanguage #programming #youtube 
+09:31, Sun 9th March 2025
 
 ---
-https://youtu.be/k9TUPpGqYTo?si=5XbqQpQ-lcbpgeUu
-Corey Schafer - YouTuber
 
----
 Textual data in python is represented with strings.
 
 In [[Corey Schafer - Python Tutorial for Beginners 1, Install and Setup for Mac and Windows]], we created a file 'intro.py' with a print function that holds a text value.
@@ -19,7 +26,7 @@ In [[Corey Schafer - Python Tutorial for Beginners 1, Install and Setup for Mac 
 print('Hello World')
 ```
 
-We can alternatively let a variable hold our text value, then pass in the variable name into our print function instead;
+We can alternatively let a variable hold our text value, then pass in the [[Variable|variable]] name into our print function instead;
 
 ```python
 # 'message' is our variable name
@@ -233,4 +240,5 @@ This will return;
 ```
 
 Because 'l' appears three times in our 'Hello World' string.
+
 ### See also:

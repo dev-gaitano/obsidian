@@ -1,12 +1,21 @@
-20:52 Mon 20th January 2025
+---
+id: Programming with Mosh - JavaScript Course for Beginners – Your First Step to Web Development
+aliases: []
+tags:
+  - youtube
+  - javascript
+  - programming
+  - webdevelopment
+Author: Mosh Hamedani - Youtuber
+Source: https://youtu.be/W6NZfCO5SIk?si=AkXorzoP0TrMkXQf
+status: child
+---
+---
 
-Status: teen
+20:52, Mon 20th January 2025
 
-Tags: #youtube #javascript #webdevelopment
+---
 
-------------------------------------
-https://youtu.be/W6NZfCO5SIk?si=AkXorzoP0TrMkXQf
-Mosh Hamedani - Youtuber
 #### What is JavaScript?
 [[JavaScript]] is a programming language.
 
@@ -104,7 +113,7 @@ Hello World!
 
 
 #### Variables
-Variables are used in programming to store data temporarily to the computers memory.
+[[Variable|Variables]] are used in programming to store data temporarily to the computers memory.
 
 We give the variables names in order to be able to read the data in future.
 
@@ -391,5 +400,6 @@ This will give us the same output.
 
 
 ### See also:
+
 [[JavaScript]]
 [[CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript]]

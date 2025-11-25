@@ -13,8 +13,8 @@ status: child
 
 ---
 
-In this section, we are going to be using variables ([[Variables (Programming)]])
-and arithmetic expressions ([[Arithmetic Expressions]]) to create a program that
+In this section, we are going to be using [[Variable|variables]] and 
+arithmetic expressions ([[Arithmetic Expressions]]) to create a program that
 
 converts Fahrenheit to Celsius.
 

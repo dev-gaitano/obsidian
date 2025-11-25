@@ -11,6 +11,30 @@
             "id": "a0eda24327bff598",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-permanent/Linear Regression.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linear Regression"
+            }
+          },
+          {
+            "id": "28c4ea290a0b63a8",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -162,6 +186,9 @@
   },
   "active": "a0eda24327bff598",
   "lastOpenFiles": [
+    "03-permanent/Linear Regression.md",
+    "03-permanent/Python programming language.md",
+    "01-fleeting/JavaScript.md",
     "03-permanent/Mean Squared Error.md",
     "01-fleeting/Variable.md",
     "03-permanent/Residual.md",
@@ -170,7 +197,6 @@
     "03-permanent/Simple Linear Regression.md",
     "03-permanent/Variable.md",
     "03-permanent/Gradient Descent.md",
-    "03-permanent/Linear Regression.md",
     "03-permanent/Dependent Variable.md",
     "01-fleeting/Linear Regression.md",
     "01-fleeting/Simple Linear Regression.md",
@@ -194,8 +220,6 @@
     "Media/{A8FFCBD6-6EE8-451D-9006-8613128326DF}.png",
     "03-permanent/Lighting and Rendering in an animation production pipeline.md",
     "02-literature/Learn Flask for Python(FreeCodeCamp.org).md",
-    "03-permanent/Flask web application framework for python.md",
-    "01-fleeting/Integrating Power Automate & Python.md",
     "3 - Permanent Notes",
     "1 - Fleeting Notes/Lerne Deutsch mit Anja - Wie zu sagen \"Ich komme aus...\" auf Deutsch",
     "1 - Fleeting Notes/Lerne Deutsch mit Anja - \"Ich heiße...\" auf Deutsch",
