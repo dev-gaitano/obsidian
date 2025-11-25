@@ -8,7 +8,7 @@ Tags: #youtube #javascript #webdevelopment
 https://youtu.be/W6NZfCO5SIk?si=AkXorzoP0TrMkXQf
 Mosh Hamedani - Youtuber
 #### What is JavaScript?
-It is a programming language.
+[[JavaScript]] is a programming language.
 
 It can used with both backend and frontend web development.
 

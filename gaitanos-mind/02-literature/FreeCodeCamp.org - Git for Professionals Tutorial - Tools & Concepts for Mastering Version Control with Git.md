@@ -276,5 +276,4 @@ now the commits are rebased, and the commits look like a straight line, but the 
 ### See also:
 [[Moringa - Intro to Git]]
 [[Moringa - Git & GitHub pages]]
-[[GIT sketch]]
 

@@ -22,7 +22,7 @@ The **CONTROLLER** part of the MVC will help you define all the routes for your 
 	/about
 	/services/: id
 
-The **VIEW** has [[3 - Permanent Notes/Template]]s that define what the UI should look like.
+The **VIEW** has [[Template]]s that define what the UI should look like.
 
 The **MODEL** contains all the business logic, it interacts with the data from the database.
 

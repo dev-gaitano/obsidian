@@ -6,7 +6,6 @@ tags:
   - c
   - programming
   - programminglanguage
-  - sofwaredevelopment
 status: child
 ---
 
@@ -14,9 +13,10 @@ status: child
 
 ---
 
-In this section, we are going to be using variables and arithmetic expressions to
-create a program that converts Fahrenheit to Celsius.
-==Define Variables and Arithmetic Expressions==
+In this section, we are going to be using variables ([[Variables (Programming)]])
+and arithmetic expressions ([[Arithmetic Expressions]]) to create a program that
+
+converts Fahrenheit to Celsius.
 
 The formula for changing Fahrenheit to Celsius is;
 
@@ -44,8 +44,6 @@ int main(void) {
         printf("%d\t%d\n", fahr, celsius);
         fahr = fahr + step
     }
-
-    return 0;
 }
 ```
 

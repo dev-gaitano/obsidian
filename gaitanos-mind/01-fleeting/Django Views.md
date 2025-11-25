@@ -1,9 +1,19 @@
-20:54 Mon 30th December 2024
+---
+id: Django Views
+aliases: []
+tags:
+  - django
+  - python
+  - programming
+status: child
+---
+---
 
-Tags:
+20:54, Mon 30th December 2024
 
 ---
-```
+
+```python
 # views.py
 
 from django.http import HttpResponse

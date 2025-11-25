@@ -1,10 +1,17 @@
-12:00 Mon 20th January 2025
+---
+id: Unified Modelling Language (UML)
+aliases: []
+tags:
+  - uml
+  - sdlc
+  - projectmanagement
+  - softwaredevelopment
+status: child
+---
+---
 
-Status: child
+12:00, Mon 20th January 2025
 
-Tags: #uml #sdlc #projectmanagement #softwaredevelopment
-
-------------------------------------
-
+---
 
 ### See also:

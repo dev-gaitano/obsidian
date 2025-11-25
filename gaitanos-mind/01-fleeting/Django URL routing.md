@@ -1,9 +1,19 @@
-21:01 Mon 30th December 2024
+---
+id: Django URL routing
+aliases: []
+tags:
+  - django
+  - python
+  - programming
+status: child
+---
+---
 
-Tags:
+21:01, Mon 30th December 2024
 
 ---
-```
+
+```python
 # my_app/urls.py
 
 from django.urls import path

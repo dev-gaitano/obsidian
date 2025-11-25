@@ -15,4 +15,4 @@ title: JavaScript Unit Testing Tutorial for Beginners
 ## Prerequisites
 
 For this tutorial, no prior knowledge of unit testing is required,
-but a basic understanding of JavaScript concepts is required.
+but a basic understanding of [[JavaScript]] concepts is required.

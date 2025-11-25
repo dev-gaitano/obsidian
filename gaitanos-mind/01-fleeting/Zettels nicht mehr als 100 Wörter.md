@@ -4,11 +4,9 @@ aliases: []
 tags:
   - zettelkasten
   - learning
-  - learningtolearn
   - youtube
 status: child
 ---
-
 ---
 
 21:16, Mon 29 September 2025
