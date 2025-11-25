@@ -1,6 +1,6 @@
 10:24 Wed 25th December 2024
 
-Tags: #webdevelopment #webapplications #ChatGPT #projectmanagement
+Tags: #webdevelopment #ChatGPT #projectmanagement #ai 
 
 ------------------------------------
 1. [[Defining your web app's goals]].

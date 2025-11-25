@@ -1,6 +1,6 @@
 14:06 Thu 26th December 2024
 
-Tags: #erp #businessmanagement 
+Tags: #erp #businessmanagement #ChatGPT #ai 
 
 ------------------------------------
 1. [[SAP S 4HANA]]

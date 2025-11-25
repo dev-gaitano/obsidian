@@ -2,7 +2,7 @@
 
 11:27 Sat 28th December 2024
 
-Tags:
+Tags: #ChatGPT #ai 
 
 ------------------------------------
 

@@ -1,6 +1,6 @@
 15:45 Thu 26th December 2024
 
-Tags: #erp #businessmanagement #saps4/hana 
+Tags: #erp #businessmanagement #ChatGPT #ai 
 
 ------------------------------------
 

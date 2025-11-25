@@ -1,3 +1,16 @@
+---
+id: ChatGPT - AI workflow guardrails
+aliases: []
+tags:
+  - ChatGPT
+  - ai
+---
+---
+
+12:16, Tue 04 November 2025
+
+---
+
 ## 1. Feature Freeze Before Tuning
 - No micro-optimizing until core features are done.
 - Ask: Does the main thing work fully?
@@ -25,3 +38,5 @@
 ## 7. Scheduled Config Rebuilds
 - Once or twice a year, rebuild configs from scratch.
 - Drop old tweaks that aren’t worth keeping.
+
+### See also:
