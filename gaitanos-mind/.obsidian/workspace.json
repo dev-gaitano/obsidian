@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-permanent/Linear Regression.md",
+                "file": "01-fleeting/Vector.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linear Regression"
+              "title": "Vector"
             }
           },
           {
@@ -39,6 +39,30 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "aac8c6f5ed22e15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-fleeting/JavaScript.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript"
             }
           }
         ]
@@ -186,9 +210,18 @@
   },
   "active": "a0eda24327bff598",
   "lastOpenFiles": [
-    "03-permanent/Linear Regression.md",
-    "03-permanent/Python programming language.md",
     "01-fleeting/JavaScript.md",
+    "01-fleeting/Tech stack.md",
+    "01-fleeting/Integrating Power Automate & Python.md",
+    "02-literature/Corey Schafer - Python Tutorial for Beginners 2, Strings - Working with Textual Data.md",
+    "01-fleeting/Vector.md",
+    "01-fleeting/Scalar.md",
+    "01-fleeting/Scalars.md",
+    "01-fleeting/Vector Space.md",
+    "Media/vector_from_A_to_B.png",
+    "03-permanent/Linear Regression.md",
+    "Media/vector_from_A_to_B.svg",
+    "03-permanent/Python programming language.md",
     "03-permanent/Mean Squared Error.md",
     "01-fleeting/Variable.md",
     "03-permanent/Residual.md",
@@ -205,21 +238,14 @@
     "01-fleeting/Dependent Variable.md",
     "01-fleeting/Residual.md",
     "01-fleeting/Gradient Descent.md",
-    "01-fleeting/Independent Variable.md",
-    "01-fleeting/Zettels nicht mehr als 100 Wörter.md",
     "Media/gradient_descent.webm",
     "Media/gradient_descent.svg",
     "Media/residual.png",
     "Media/simple_linear_regression.png",
     "Media/Linear_regression.png",
-    "getting started w/ algotrading.md",
     "getting started w",
-    "Discount Rate.md",
     "Untitled.base",
-    "03-permanent/'-m' flag.md",
     "Media/{A8FFCBD6-6EE8-451D-9006-8613128326DF}.png",
-    "03-permanent/Lighting and Rendering in an animation production pipeline.md",
-    "02-literature/Learn Flask for Python(FreeCodeCamp.org).md",
     "3 - Permanent Notes",
     "1 - Fleeting Notes/Lerne Deutsch mit Anja - Wie zu sagen \"Ich komme aus...\" auf Deutsch",
     "1 - Fleeting Notes/Lerne Deutsch mit Anja - \"Ich heiße...\" auf Deutsch",
@@ -229,8 +255,6 @@
     "home/gaitano/obsidian/gaitanos_mind/1 - Fleeting Notes",
     "Media/Pasted image 20250309134350.png",
     "Media/Pasted image 20250309134117.png",
-    "Media/Pasted image 20250309134058.png",
-    "Media/Pasted image 20250309133717.png",
-    "Media/Pasted image 20250309133139.png"
+    "Media/Pasted image 20250309134058.png"
   ]
 }
