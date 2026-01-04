@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0eda24327bff598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-fleeting/Vector.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vector"
-            }
-          },
-          {
-            "id": "28c4ea290a0b63a8",
+            "id": "4f3dc4ff84fdd2d1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -42,12 +18,12 @@
             }
           },
           {
-            "id": "aac8c6f5ed22e15c",
+            "id": "860e8ccb7d10ad53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-fleeting/JavaScript.md",
+                "file": "03-permanent/Key activities of the SDLC Planning phase.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,10 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "Key activities of the SDLC Planning phase"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,36 +185,38 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a0eda24327bff598",
+  "active": "860e8ccb7d10ad53",
   "lastOpenFiles": [
-    "01-fleeting/JavaScript.md",
-    "01-fleeting/Tech stack.md",
-    "01-fleeting/Integrating Power Automate & Python.md",
-    "02-literature/Corey Schafer - Python Tutorial for Beginners 2, Strings - Working with Textual Data.md",
-    "01-fleeting/Vector.md",
-    "01-fleeting/Scalar.md",
-    "01-fleeting/Scalars.md",
-    "01-fleeting/Vector Space.md",
+    "2026-01-04.md",
+    "03-permanent/Key activities of the SDLC Planning phase.md",
+    "03-permanent/Idea generation in an animation production pipeline.md",
+    "01-fleeting/Why do we use Promises.md",
+    "01-fleeting/How to use the Fetch API.md",
+    "01-fleeting/What is the Fetch API.md",
+    "1767447030-NIVY.md",
+    "01-fleeting/What are Promises (Programming).md",
+    "01-fleeting/What is OAuth.md",
+    "01-fleeting/What is the Field of view (cameras).md",
+    "02-literature/The C Programming Language - 1.3 The for statement.md",
+    "02-literature/The C Programming Language - 1.2 Variables and Arithmetic Expressions.md_",
+    "01-fleeting/Function.md",
+    "03-permanent/Control Flow Statement.md",
+    "03-permanent/Loop Statement.md",
+    "03-permanent/While Loop.md",
+    "03-permanent/For Loop.md",
+    "03-permanent/Do While Loop.md",
+    "01-fleeting/Programming.md",
+    "02-literature/Programming with Mosh - JavaScript Course for Beginners – Your First Step to Web Development.md",
+    "03-permanent/GSAP Scroll Trigger Usage.md",
+    "03-permanent/WSGI.md",
+    "03-permanent/Characteristics of Python.md",
+    "01-fleeting/Loop Statement.md",
+    "02-literature/The C Programming Language - 1.2 Variables and Arithmetic Expressions.md",
+    "03-permanent/How do I know what Zettel to link.md",
+    "01-fleeting/Decision Tree.md",
+    "Media/decision_tree.png",
     "Media/vector_from_A_to_B.png",
-    "03-permanent/Linear Regression.md",
     "Media/vector_from_A_to_B.svg",
-    "03-permanent/Python programming language.md",
-    "03-permanent/Mean Squared Error.md",
-    "01-fleeting/Variable.md",
-    "03-permanent/Residual.md",
-    "03-permanent/Independent Variable.md",
-    "03-permanent/Coefficient of Determination.md",
-    "03-permanent/Simple Linear Regression.md",
-    "03-permanent/Variable.md",
-    "03-permanent/Gradient Descent.md",
-    "03-permanent/Dependent Variable.md",
-    "01-fleeting/Linear Regression.md",
-    "01-fleeting/Simple Linear Regression.md",
-    "01-fleeting/Coefficient of Determination.md",
-    "01-fleeting/Mean Squared Error.md",
-    "01-fleeting/Dependent Variable.md",
-    "01-fleeting/Residual.md",
-    "01-fleeting/Gradient Descent.md",
     "Media/gradient_descent.webm",
     "Media/gradient_descent.svg",
     "Media/residual.png",
@@ -252,9 +231,7 @@
     "5 - MOCs/MOC - Deutsch für beginners",
     "5 - MOCs/'MOC - Deutsch für beginners'",
     "v:null",
-    "home/gaitano/obsidian/gaitanos_mind/1 - Fleeting Notes",
     "Media/Pasted image 20250309134350.png",
-    "Media/Pasted image 20250309134117.png",
-    "Media/Pasted image 20250309134058.png"
+    "Media/Pasted image 20250309134117.png"
   ]
 }
