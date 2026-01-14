@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-permanent/Key activities of the SDLC Planning phase.md",
+                "file": "01-fleeting/Identity conflict while forming new habits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Key activities of the SDLC Planning phase"
+              "title": "Identity conflict while forming new habits"
             }
           }
         ],
@@ -187,8 +187,9 @@
   },
   "active": "860e8ccb7d10ad53",
   "lastOpenFiles": [
-    "2026-01-04.md",
     "03-permanent/Key activities of the SDLC Planning phase.md",
+    "01-fleeting/Identity conflict while forming new habits.md",
+    "2026-01-04.md",
     "03-permanent/Idea generation in an animation production pipeline.md",
     "01-fleeting/Why do we use Promises.md",
     "01-fleeting/How to use the Fetch API.md",
@@ -213,7 +214,6 @@
     "01-fleeting/Loop Statement.md",
     "02-literature/The C Programming Language - 1.2 Variables and Arithmetic Expressions.md",
     "03-permanent/How do I know what Zettel to link.md",
-    "01-fleeting/Decision Tree.md",
     "Media/decision_tree.png",
     "Media/vector_from_A_to_B.png",
     "Media/vector_from_A_to_B.svg",
