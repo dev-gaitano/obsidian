@@ -15,7 +15,7 @@ status: adult
 
 # Hello World Program In C
 
-In C ([[C Programming Language]]), to create a program to print "Hello, world!" we,
+In [[C]], to create a program to print "Hello, world!" we,
 
 1. First, tell the program to include information about the standard
    input/output library;
@@ -24,7 +24,7 @@ In C ([[C Programming Language]]), to create a program to print "Hello, world!" 
 # include <stdio.h>
 ```
 
-2. Then, define a function, `main` in this case.
+2. Then, define a [[Function|function]], `main` in this case.
 
 ```c
 // type name(args) {}

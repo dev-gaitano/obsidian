@@ -15,7 +15,7 @@ status: adult
 
 ---
 
-The Coefficient of Determination is the size of variation in the [[Dependent Variable|Dependent variable]]
+The Coefficient of Determination($r^2$) is the size of variation in the [[Dependent Variable|Dependent variable]]
 that can be predicted from the [[Independent Variable|Independent variable(s)]]. 
 
 It's used in models where the main goal is to predict future outcomes or test

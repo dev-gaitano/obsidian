@@ -5,7 +5,7 @@ Tags: #webdevelopment #ChatGPT #projectmanagement #ai
 ------------------------------------
 1. [[Defining your web app's goals]].
 2. Assembling and organizing the team.
-3. Choose a [[Tech stack]].
+3. Choose a Tech stack.
 4. Plan the development process.
 5. Develop the web app.
 6. Launch and iterate.

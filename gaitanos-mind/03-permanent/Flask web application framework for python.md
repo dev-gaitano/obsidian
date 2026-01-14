@@ -1,6 +1,10 @@
 ---
 id: Flask web application framework for python
-aliases: []
+aliases:
+  - Flask
+  - Flask Framework
+  - Flask framework
+  - flask framework
 tags:
   - flaskframework
   - python
@@ -24,12 +28,3 @@ It's a [[WSGI web application framework]], that uses Werkzeug as its [[WSGI tool
 
 [Welcome to Flask — Flask Documentation (3.1.x)](https://flask.palletsprojects.com/en/stable/)
 [Flask (web framework) - Wikipedia](https://en.wikipedia.org/wiki/Flask_(web_framework))
-[[Learn Flask for Python(FreeCodeCamp.org)]]
-
-
-
-
-
-
-
-

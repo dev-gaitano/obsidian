@@ -8,5 +8,5 @@ Categorize your app features into two sections:
 	Nice-to-have features.
 
 ### See also:
+
 [[Defining your web app's goals]]
-[[ChatGPT - Web app development pipeline]]

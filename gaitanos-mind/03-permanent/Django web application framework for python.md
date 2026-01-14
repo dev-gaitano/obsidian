@@ -1,6 +1,10 @@
 ---
 id: Django web application framework for python
-aliases: []
+aliases:
+  - Django
+  - Django Framework
+  - Django framework
+  - django framework
 tags:
   - django
   - python
@@ -14,7 +18,7 @@ status: adult
 
 ---
 
-Django is a [[Python programming language]] web application development [[Framework]].
+Django is a [[Python programming language]] web application development [[Framework|framework]].
 
 ### See also:
 [[IBM Technology - What is Django]]

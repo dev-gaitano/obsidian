@@ -16,7 +16,7 @@ status: child
 
 ---
 
-Textual data in python is represented with strings.
+Textual data in [[Python programming language|python]] is represented with strings.
 
 In [[Corey Schafer - Python Tutorial for Beginners 1, Install and Setup for Mac and Windows]], we created a file 'intro.py' with a print function that holds a text value.
 

@@ -1,7 +1,7 @@
 ---
 id: C Programming Language
 aliases:
-  - C Programming Language
+  - C
 tags:
   - c
   - programming

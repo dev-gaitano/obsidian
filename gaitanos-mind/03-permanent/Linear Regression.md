@@ -16,9 +16,8 @@ status: adult
 ---
 
 The Linear regression model, also known as Ordinary Least Squares(OLS) regression model,
-is a model that estimates the relationship between a value you want to predict,
-known as a [[Dependent Variable|Dependent variable]] and one or more "things" that influence the value
-you want to predict, known as explanatory variables or [[Independent Variable|Independent variables]].
+is a linear model used in supervised machine learning that estimates the
+relationship between a [[Dependent Variable|dependent variable]] and the explanatory or [[Independent Variable|independent variables]].
 
 The relationships are modeled using a math function(==linear Predictor Function==)
 whose unknown parameters are estimated from the data.

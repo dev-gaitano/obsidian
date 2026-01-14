@@ -15,5 +15,5 @@ Examples:
 	- Ratings and reviews from early adopters. 
 
 ### See also:
+
 [[Defining your web app's goals]]
-[[ChatGPT - Web app development pipeline]]

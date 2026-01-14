@@ -21,4 +21,3 @@ or into departments, e.g.
 [[BuddyFromIT - What is ERP.  System ERP , SAP for beginners]]
 [[IBM Technology - What is Enterprise Resource Planning (ERP) Software]]
 [Enterprise resource planning - Wikipedia](https://en.wikipedia.org/wiki/Enterprise_resource_planning)
-[[ChatGPT - Top ten most popular ERP Systems]]

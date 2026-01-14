@@ -5,9 +5,5 @@ It isolates a project's [[Packages]] from system-wide packages, this avoids conf
 Using a virtual environment also makes it easier to share project files, as each project file has its set of dependencies that the person on the receiving end can install.
 
 **See also**
+
 [[How to create a python virtual environment in windows]]
-[[Set up and workflow]]
-
-
-
-

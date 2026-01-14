@@ -23,6 +23,3 @@ Activating the virtual environment will ensure that all project dependencies are
 **See also**
 [[Python programming language]]
 [[Virtual environment]]
-[[Set up and workflow]]
-
-

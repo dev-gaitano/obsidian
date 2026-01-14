@@ -10,5 +10,5 @@ Ask yourself:
 	**Why do I think this web app will be beneficial to the end user?**
 
 ### See also:
+
 [[Defining your web app's goals]]
-[[ChatGPT - Web app development pipeline]]

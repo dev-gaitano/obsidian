@@ -24,7 +24,7 @@ $$
 c = \frac{5}{9}(f - 32)
 $$
 
-The program consists of a single function - The main function.
+The program consists of a single [[Function|function]] - The main function.
 
 ```c
 #include <stdio.h>
