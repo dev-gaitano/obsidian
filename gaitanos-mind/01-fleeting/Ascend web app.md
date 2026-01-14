@@ -18,7 +18,7 @@ status: child
 *"Ascend provides a set of tools that will save your company 70% a year on accounting and management costs"*
 
 **Functionality Inspo**
-ERP - [[SAP S 4HANA]]
+ERP - SAP S 4HANA
 CRM - Salesforce
 POS - Simple Invoice Manager
 Finance - QuickBooks
@@ -41,7 +41,7 @@ Business owners who lack the money or resources to hire a professional accountan
 
 **Features**
 Must have features
-	- [[Customer Relationship Management (CRM)]] module
+	- Customer Relationship Management (CRM) module
 	- Production Management module (PLM)
 	- Inventory Management module
 	- Sales module
@@ -56,7 +56,7 @@ Must have features
 	- Department permissions
 	
 Nice-to-have features
-	AI chatbot Assistant
+	AI chat-bot Assistant
 	AI driven Analytics
 	Forecasts
 	News
@@ -64,18 +64,18 @@ Nice-to-have features
 **Success**
 A complete fully featured web app and mobile app
 
-**[[TECH STACK]]**
-**Frontend**
-	Frontend [[Programming]] language(s):
+**TECH STACK**
+**Front-end**
+	Front-end [[Programming]] language(s):
 		HTML
 		CSS
 		JavaScript
-	Frontend [[Framework]](s):
+	Front-end [[Framework]](s):
 
-**Backend**
-	Backend Programming Language(s):
+**Back-end**
+	Back-end Programming Language(s):
 		[[Python programming language]]
-	Backend Framework(s):
+	Back-end Framework(s):
 		[[Django web application framework for python]]
 	Database(s):
 		A relational database
