@@ -1,8 +1,14 @@
+---
+id: Key activities of the SDLC Planning phase
+aliases: []
+tags:
+  - sdlc
+  - ChatGPT
+  - projectmanagement
+status: adult
+---
+
 18:57 Fri 3rd January 2025
-
-Status: adult
-
-Tags: #sdlc #ChatGPT #ai #projectmanagement #softwaredevelopment 
 
 ---
 1. Identifying the Objectives
