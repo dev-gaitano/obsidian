@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-permanent/Key activities of the SDLC Planning phase.md",
+                "file": "03-permanent/Packages.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Key activities of the SDLC Planning phase"
+              "title": "Packages"
             }
           }
         ],
@@ -116,17 +116,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Fleeting Notes/Moringa - Programming Languages & Setup.md",
+                "file": "03-permanent/Packages.md",
                 "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "extraContext": true,
+                "sortOrder": "byModifiedTime",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Moringa - Programming Languages & Setup"
+              "title": "Backlinks for Packages"
             }
           },
           {
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +186,14 @@
   },
   "active": "860e8ccb7d10ad53",
   "lastOpenFiles": [
+    "03-permanent/What are decorators (Python).md",
+    "01-fleeting/What are decorators (Python).md",
+    "01-fleeting/What are decorators in python.md",
+    "03-permanent/Modules.md",
+    "03-permanent/Python programming language.md",
+    "03-permanent/Key activities of the SDLC Planning phase.md",
     "01-fleeting/Looking at your goals and looking from your goals.md",
     "03-permanent/Looking at your goals and looking from your goals.md",
-    "03-permanent/Key activities of the SDLC Planning phase.md",
     "01-fleeting/Identity conflict while forming new habits.md",
     "03-permanent/Identity conflict while forming new habits.md",
     "2026-01-04.md",
@@ -209,11 +213,6 @@
     "03-permanent/While Loop.md",
     "03-permanent/For Loop.md",
     "03-permanent/Do While Loop.md",
-    "01-fleeting/Programming.md",
-    "02-literature/Programming with Mosh - JavaScript Course for Beginners – Your First Step to Web Development.md",
-    "03-permanent/GSAP Scroll Trigger Usage.md",
-    "03-permanent/WSGI.md",
-    "03-permanent/Characteristics of Python.md",
     "Media/decision_tree.png",
     "Media/vector_from_A_to_B.png",
     "Media/vector_from_A_to_B.svg",
