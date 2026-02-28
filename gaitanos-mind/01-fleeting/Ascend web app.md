@@ -83,5 +83,5 @@ A complete fully featured web app and mobile app
 DevOps and infrastructure
 Version Control
 APIs
+
 ### See also:
-[[ChatGPT - Web app development pipeline]]
