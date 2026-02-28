@@ -11,7 +11,9 @@ Slides?
 
 WIFI
 SSID: MORINGA-STUDENTS
-Password: 5TUD3nt23#
+Password: 5TUD3nt@23#
 
+When are we going to start coding
+How will we be supported
 ### See also:
 [[Moringa - Week 1 Learning Objectives]]
