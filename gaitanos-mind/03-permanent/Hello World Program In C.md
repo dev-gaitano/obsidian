@@ -15,7 +15,7 @@ status: adult
 
 # Hello World Program In C
 
-In [[C]], to create a program to print "Hello, world!" we,
+In [[C Programming Language|C]], to create a program to print "Hello, world!" we,
 
 1. First, tell the program to include information about the standard
    input/output library;
