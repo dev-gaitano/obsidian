@@ -10,6 +10,28 @@ tags: []
 
 ---
 
+Outcome - I want to save more money
+Process
+    - Pesa ya Etica yenye mum atakuwa ananipea
+        - 100 - Moringa
+        - 50 - Emergency
+        - 50 - Sinking
+Identity 
+    Past Identity
+    - I used to Spend more than I Earn. What causes me to spend more than I earn?
+        1. I Spend first before Saving
+            - Fixed account (MMF)
+            - Goal oriented saving
+        2. I should put myself in situations that encourage me to spend money recklessly
+            - Kwa Pato, Kwa Tata/ Kawangware BP
+            - Nikiwa na Trevor, tukitoka kuchoma
+            - Nikilewa
+            - Nikiwa na Dem
+    - I used not to have a source of income apart from my parents
+    Current Identity
+    - I save before spending
+    - I recognize a money drain situation na naact vile nafaa
+
 # Machine Learning
 
 1. Get Live market data using APIs
