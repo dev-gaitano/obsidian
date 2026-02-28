@@ -17,9 +17,13 @@ status: adult
 ```
 @app.route('/')
 ```
-An app route is a decorator ([[Decorator]]) that tells Flask ([[Flask web application framework for python|flask web application framework for python]]) what page to direct the user to in a web app.
 
-It is usually followed by a function, that once accessed, the function defined below it is cued.
+An app route [[What is a decorator (Python)|decorator]], is a function that tells [[Flask web application framework for python|Flask]] what page to direct
+the user to in a web app.
+
+The app route decorator is followed by a function, that is executed when the
+route in the decorator is accessed.
+
 ```python
 @app.route('/') 
 def home():
