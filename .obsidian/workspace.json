@@ -35,24 +35,10 @@
             "id": "f0eb5f3ef857d60e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gaitanos-mind/01-fleeting/POS system features.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "POS system features"
+              "title": "New tab"
             }
           },
           {
