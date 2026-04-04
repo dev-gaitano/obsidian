@@ -12,10 +12,24 @@
             "id": "4f3dc4ff84fdd2d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01-fleeting/Notizen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Notizen"
             }
           }
         ]
@@ -31,6 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01-fleeting/Notizen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -58,7 +73,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Notizen"
             }
           }
         ]
@@ -206,6 +221,13 @@
   },
   "active": "4f3dc4ff84fdd2d1",
   "lastOpenFiles": [
+    "02-literature/Moringa - Present Float and CSS Box Model.md",
+    "02-literature/Moringa - Present Higher order functions.md",
+    "02-literature/Presentation - High Order Functions.md",
+    "03-permanent/What are higher order functions.md",
+    "01-fleeting/What are higher order functions.md",
+    "01-fleeting/Presentation - High Order Functions.md",
+    "Untitled.md",
     "01-fleeting/topbox.md",
     "2026-03-01.md",
     "What is a State Variable (Programming).md",
@@ -214,7 +236,6 @@
     "01-fleeting/What is State Management (Programming).md",
     "2026-02-28.md",
     "01-fleeting/Untitled.md",
-    "Untitled.md",
     "02-literature/Moringa Orientation.md",
     "01-fleeting/Data Type Sizes in C.md",
     "01-fleeting/TopBox Studio System Design.md",
@@ -226,12 +247,6 @@
     "03-permanent/Django web application framework for python.md",
     "03-permanent/GSAP Register Plugin.md",
     "03-permanent/Moringa - Intro to Git.md",
-    "03-permanent/Framework.md",
-    "02-literature/Dennis Ivy - Python Django Explained in 8 Minutes.md",
-    "03-permanent/Triggers.md",
-    "03-permanent/Hello World Program In C.md",
-    "01-fleeting/C Programming Language.md",
-    "C.md",
     "02-literature/The C Programming Language - 1.2 Variables and Arithmetic Expressions.md_",
     "Media/decision_tree.png",
     "Media/vector_from_A_to_B.png",
