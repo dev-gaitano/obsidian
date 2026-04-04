@@ -1,6 +1,7 @@
 ---
 id: What are higher order functions
-aliases: []
+aliases:
+  - higher order functions
 tags:
   - programming
 status: adult
@@ -11,11 +12,11 @@ status: adult
 
 ---
 
-High order functions are [[Function|functions]] that take other functions as arguments,
+High order functions are [[What is a Function (Programming)|functions]] that take other functions as arguments,
 or return them as results when it's done.
 
 High order functions treat first order functions as values.
 
 ### See also:
 
-[[Presentation - High Order Functions|presentation - High Order Functions]]
+[[Moringa - Present Higher order functions]]
