@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-fleeting/Notizen.md",
+                "file": "03-permanent/What are higher order functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notizen"
+              "title": "What are higher order functions"
             }
           }
         ]
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-fleeting/Notizen.md",
+                "file": "03-permanent/What are higher order functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -73,7 +73,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Notizen"
+              "title": "Graph of What are higher order functions"
             }
           }
         ]
@@ -221,6 +221,9 @@
   },
   "active": "4f3dc4ff84fdd2d1",
   "lastOpenFiles": [
+    "03-permanent/What is a Function (Programming).md",
+    "01-fleeting/Notizen.md",
+    "01-fleeting/What is a Function (Programming).md",
     "02-literature/Moringa - Present Float and CSS Box Model.md",
     "02-literature/Moringa - Present Higher order functions.md",
     "02-literature/Presentation - High Order Functions.md",
@@ -244,9 +247,6 @@
     "03-permanent/Template Engine.md",
     "03-permanent/Conducting a literature review.md",
     "03-permanent/Cloud Flows.md",
-    "03-permanent/Django web application framework for python.md",
-    "03-permanent/GSAP Register Plugin.md",
-    "03-permanent/Moringa - Intro to Git.md",
     "02-literature/The C Programming Language - 1.2 Variables and Arithmetic Expressions.md_",
     "Media/decision_tree.png",
     "Media/vector_from_A_to_B.png",
