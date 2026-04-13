@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-permanent/What are higher order functions.md",
+                "file": "01-fleeting/React useState Hook.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What are higher order functions"
+              "title": "React useState Hook"
             }
           }
         ]
@@ -45,11 +45,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03-permanent/What are higher order functions.md",
+                "file": "01-fleeting/React useState Hook.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -68,12 +68,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 0.6700469788528229,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of What are higher order functions"
+              "title": "Graph of React useState Hook"
             }
           }
         ]
@@ -221,32 +221,32 @@
   },
   "active": "4f3dc4ff84fdd2d1",
   "lastOpenFiles": [
+    "03-permanent/What is a State Variable (Programming).md",
+    "03-permanent/What is State Management (Programming).md",
+    "01-fleeting/What is an interface (TypeScript).md",
+    "01-fleeting/What is a State Variable (Programming).md",
+    "01-fleeting/What is State Management (Programming).md",
+    "01-fleeting/What are Hooks (Programming).md",
+    "01-fleeting/React Hooks (Programming).md",
+    "01-fleeting/Hooks (Programming).md",
+    "01-fleeting/State Management (Programming).md",
+    "01-fleeting/State Variable (Programming).md",
     "03-permanent/What is a Function (Programming).md",
+    "01-fleeting/React useState Hook.md",
+    "01-fleeting/React library.md",
+    "03-permanent/What are higher order functions.md",
     "01-fleeting/Notizen.md",
     "01-fleeting/What is a Function (Programming).md",
     "02-literature/Moringa - Present Float and CSS Box Model.md",
     "02-literature/Moringa - Present Higher order functions.md",
     "02-literature/Presentation - High Order Functions.md",
-    "03-permanent/What are higher order functions.md",
     "01-fleeting/What are higher order functions.md",
     "01-fleeting/Presentation - High Order Functions.md",
     "Untitled.md",
     "01-fleeting/topbox.md",
     "2026-03-01.md",
     "What is a State Variable (Programming).md",
-    "01-fleeting/What is a State Variable (Programming).md",
     "New banking features.md",
-    "01-fleeting/What is State Management (Programming).md",
-    "2026-02-28.md",
-    "01-fleeting/Untitled.md",
-    "02-literature/Moringa Orientation.md",
-    "01-fleeting/Data Type Sizes in C.md",
-    "01-fleeting/TopBox Studio System Design.md",
-    "02-literature/FreeCodeCamp.org - JavaScript DOM Manipulation , Full Course for Beginners.md",
-    "03-permanent/Rigging in the animation production pipeline.md",
-    "03-permanent/Template Engine.md",
-    "03-permanent/Conducting a literature review.md",
-    "03-permanent/Cloud Flows.md",
     "02-literature/The C Programming Language - 1.2 Variables and Arithmetic Expressions.md_",
     "Media/decision_tree.png",
     "Media/vector_from_A_to_B.png",

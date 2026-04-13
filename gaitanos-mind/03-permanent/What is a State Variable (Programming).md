@@ -6,7 +6,8 @@ aliases:
 tags:
   - definition
   - programming
-status: child
+  - state-management
+status: adult
 ---
 ---
 
@@ -25,3 +26,4 @@ An example of this implementation is React's `useState` hook.
 ### See also:
 
 [React docs - State: A Component's Memory](https://react.dev/learn/state-a-components-memory)
+[[React useState Hook]]
