@@ -68,7 +68,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6700469788528229,
+                  "scale": 1.242514733493359,
                   "close": true
                 }
               },
@@ -219,7 +219,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4f3dc4ff84fdd2d1",
+  "active": "09bfab76a7694dd4",
   "lastOpenFiles": [
     "03-permanent/What is a State Variable (Programming).md",
     "03-permanent/What is State Management (Programming).md",
