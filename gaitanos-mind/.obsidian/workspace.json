@@ -6,16 +6,15 @@
       {
         "id": "1a5a054d7783292f",
         "type": "tabs",
-        "dimension": 57.043010752688176,
         "children": [
           {
-            "id": "4f3dc4ff84fdd2d1",
+            "id": "698872e474c90e22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-fleeting/React useState Hook.md",
-                "mode": "source",
+                "file": "01-fleeting/Notizen.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,51 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "React useState Hook"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1e7a4d619b7dc535",
-        "type": "tabs",
-        "dimension": 42.956989247311824,
-        "children": [
-          {
-            "id": "09bfab76a7694dd4",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "01-fleeting/React useState Hook.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.242514733493359,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of React useState Hook"
+              "title": "Notizen"
             }
           }
         ]
@@ -88,6 +43,7 @@
       {
         "id": "19ab2f465b4f4233",
         "type": "tabs",
+        "dimension": 64.14686825053995,
         "children": [
           {
             "id": "8aa105972d4c2666",
@@ -108,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:deutsch",
+                "query": "tag:#programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,11 +86,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "d725024b26382576",
+        "type": "tabs",
+        "dimension": 35.85313174946004,
+        "children": [
+          {
+            "id": "6d5e93abdade6813",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 360.5
   },
   "right": {
     "id": "8ec8c06152567b3a",
@@ -143,6 +115,7 @@
       {
         "id": "a1cf1f8634e9a464",
         "type": "tabs",
+        "dimension": 63.32644628099173,
         "children": [
           {
             "id": "ca2bb68a7e3dac32",
@@ -150,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is a State Variable (Programming).md",
+                "file": "01-fleeting/Notizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from What is a State Variable (Programming)"
+              "title": "Outgoing links from Notizen"
             }
           },
           {
@@ -165,7 +138,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -176,9 +151,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "01-fleeting/Notizen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Notizen"
             }
           },
           {
@@ -187,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is a State Variable (Programming).md",
+                "file": "01-fleeting/Notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +177,32 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What is a State Variable (Programming)"
+              "title": "Backlinks for Notizen"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2b953e4cbb199c22",
+        "type": "tabs",
+        "dimension": 36.67355371900827,
+        "children": [
+          {
+            "id": "d3c4a76fa14dca29",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +216,21 @@
       "random-note:Open random note": false
     }
   },
-  "active": "09bfab76a7694dd4",
+  "active": "8aa105972d4c2666",
   "lastOpenFiles": [
-    "03-permanent/What is a State Variable (Programming).md",
+    "programming.md",
+    "01-fleeting/Notizen.md",
+    "02-literature/Dennis Ivy - Python Django Explained in 8 Minutes.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "03-permanent/Django web application framework for python.md",
+    "02-literature/CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript.md",
     "03-permanent/What is State Management (Programming).md",
+    "2026-04-28.md",
+    "02-literature/Moringa Orientation.md",
+    "03-permanent/Moringa - Intro to Git.md",
+    "01-fleeting/React useState Hook.md",
+    "03-permanent/What is a State Variable (Programming).md",
     "01-fleeting/What is an interface (TypeScript).md",
     "01-fleeting/What is a State Variable (Programming).md",
     "01-fleeting/What is State Management (Programming).md",
@@ -232,21 +240,12 @@
     "01-fleeting/State Management (Programming).md",
     "01-fleeting/State Variable (Programming).md",
     "03-permanent/What is a Function (Programming).md",
-    "01-fleeting/React useState Hook.md",
     "01-fleeting/React library.md",
     "03-permanent/What are higher order functions.md",
-    "01-fleeting/Notizen.md",
     "01-fleeting/What is a Function (Programming).md",
     "02-literature/Moringa - Present Float and CSS Box Model.md",
     "02-literature/Moringa - Present Higher order functions.md",
     "02-literature/Presentation - High Order Functions.md",
-    "01-fleeting/What are higher order functions.md",
-    "01-fleeting/Presentation - High Order Functions.md",
-    "Untitled.md",
-    "01-fleeting/topbox.md",
-    "2026-03-01.md",
-    "What is a State Variable (Programming).md",
-    "New banking features.md",
     "02-literature/The C Programming Language - 1.2 Variables and Arithmetic Expressions.md_",
     "Media/decision_tree.png",
     "Media/vector_from_A_to_B.png",
@@ -257,14 +256,12 @@
     "Media/simple_linear_regression.png",
     "Media/Linear_regression.png",
     "getting started w",
-    "Untitled.base",
     "Media/{A8FFCBD6-6EE8-451D-9006-8613128326DF}.png",
     "3 - Permanent Notes",
     "1 - Fleeting Notes/Lerne Deutsch mit Anja - Wie zu sagen \"Ich komme aus...\" auf Deutsch",
     "1 - Fleeting Notes/Lerne Deutsch mit Anja - \"Ich heiße...\" auf Deutsch",
     "5 - MOCs/MOC - Deutsch für beginners",
     "5 - MOCs/'MOC - Deutsch für beginners'",
-    "v:null",
     "Media/Pasted image 20250309134350.png",
     "Media/Pasted image 20250309134117.png"
   ]
