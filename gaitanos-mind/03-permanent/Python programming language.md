@@ -1,12 +1,13 @@
 ---
 id: Python programming language
 aliases:
-  - Python
-  - python
+- Python
+- python
 tags:
-  - python
-  - programminglanguage
-  - programming
+- python
+- programminglanguage
+- Programming
+status: adult
 ---
 ---
 
@@ -14,7 +15,8 @@ tags:
 
 ---
 
-Python is a multipurpose [[Programming|programming]] language known for its readability and ease of use.
+Python is a high-level, interpreted, multipurpose [[Programming|programming]] language, known
+for its readability and ease of use.
 
 ### See also:
 

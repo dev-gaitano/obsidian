@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-fleeting/Notizen.md",
+                "file": "01-fleeting/React useEffect Hook.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notizen"
+              "title": "React useEffect Hook"
+            }
+          },
+          {
+            "id": "3a83d07d23d1fac5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -43,7 +53,7 @@
       {
         "id": "19ab2f465b4f4233",
         "type": "tabs",
-        "dimension": 64.14686825053995,
+        "dimension": 69.94594594594594,
         "children": [
           {
             "id": "8aa105972d4c2666",
@@ -64,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming",
+                "query": "tag:#Programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +100,7 @@
       {
         "id": "d725024b26382576",
         "type": "tabs",
-        "dimension": 35.85313174946004,
+        "dimension": 30.05405405405406,
         "children": [
           {
             "id": "6d5e93abdade6813",
@@ -106,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 333.5
   },
   "right": {
     "id": "8ec8c06152567b3a",
@@ -115,7 +125,7 @@
       {
         "id": "a1cf1f8634e9a464",
         "type": "tabs",
-        "dimension": 63.32644628099173,
+        "dimension": 28.202479338842974,
         "children": [
           {
             "id": "ca2bb68a7e3dac32",
@@ -123,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-fleeting/Notizen.md",
+                "file": "03-permanent/Dependent Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notizen"
+              "title": "Outgoing links from Dependent Variable"
             }
           },
           {
@@ -152,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-fleeting/Notizen.md",
+                "file": "03-permanent/Dependent Variable.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notizen"
+              "title": "Outline of Dependent Variable"
             }
           },
           {
@@ -167,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-fleeting/Notizen.md",
+                "file": "03-permanent/Dependent Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,16 +187,60 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notizen"
+              "title": "Backlinks for Dependent Variable"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "2b953e4cbb199c22",
+        "id": "27cd61c4d30325ec",
         "type": "tabs",
-        "dimension": 36.67355371900827,
+        "dimension": 35.84710743801653,
+        "children": [
+          {
+            "id": "d25f9461c79baa46",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01-fleeting/React useEffect Hook.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6024013357398957,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of React useEffect Hook"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7ccbff30ce990ad2",
+        "type": "tabs",
+        "dimension": 35.9504132231405,
         "children": [
           {
             "id": "d3c4a76fa14dca29",
@@ -202,7 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,18 +270,26 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8aa105972d4c2666",
+  "active": "698872e474c90e22",
   "lastOpenFiles": [
-    "programming.md",
+    "01-fleeting/React useEffect Hook.md",
     "01-fleeting/Notizen.md",
+    "02-literature/Moringa Orientation.md",
+    "2026-04-28.md",
+    "01-fleeting/\"CC\" Disaster (Email & Communication).md",
+    "03-permanent/Dependent Variable.md",
+    "03-permanent/Characteristics of Python.md",
+    "03-permanent/C Programming Language.md",
+    "03-permanent/Control Flow Statement.md",
+    "01-fleeting/Programming.md",
+    "Programming.md",
+    "programming.md",
     "02-literature/Dennis Ivy - Python Django Explained in 8 Minutes.md",
     "Untitled.base",
     "Untitled 1.base",
     "03-permanent/Django web application framework for python.md",
     "02-literature/CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript.md",
     "03-permanent/What is State Management (Programming).md",
-    "2026-04-28.md",
-    "02-literature/Moringa Orientation.md",
     "03-permanent/Moringa - Intro to Git.md",
     "01-fleeting/React useState Hook.md",
     "03-permanent/What is a State Variable (Programming).md",
@@ -238,14 +300,6 @@
     "01-fleeting/React Hooks (Programming).md",
     "01-fleeting/Hooks (Programming).md",
     "01-fleeting/State Management (Programming).md",
-    "01-fleeting/State Variable (Programming).md",
-    "03-permanent/What is a Function (Programming).md",
-    "01-fleeting/React library.md",
-    "03-permanent/What are higher order functions.md",
-    "01-fleeting/What is a Function (Programming).md",
-    "02-literature/Moringa - Present Float and CSS Box Model.md",
-    "02-literature/Moringa - Present Higher order functions.md",
-    "02-literature/Presentation - High Order Functions.md",
     "02-literature/The C Programming Language - 1.2 Variables and Arithmetic Expressions.md_",
     "Media/decision_tree.png",
     "Media/vector_from_A_to_B.png",
