@@ -1,14 +1,16 @@
 ---
 id: Vector
 aliases:
-  - Vectors
-  - vector
-  - vectors
+- Vectors
+- vector
+- vectors
 tags:
-  - math
-  - linearalgebra
+- math
+- linearalgebra
+- geometry
 status: adult
 ---
+
 ---
 
 14:52, Tue 25 November 2025
@@ -32,3 +34,4 @@ and denoted by $\vec{a}$.
 
 ### See also:
 
+[[What is a Matrix]]

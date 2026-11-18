@@ -1,5 +1,6 @@
 {
   "theme": "obsidian",
   "cssTheme": "Vanilla AMOLED",
-  "accentColor": "#601683"
+  "accentColor": "#601683",
+  "showRibbon": true
 }

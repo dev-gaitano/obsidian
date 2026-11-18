@@ -1,9 +1,10 @@
 ---
 id: Variable
 aliases:
-  - Variable
+- Variable
+- Variables
 tags:
-  - programming
+- Programming
 status: adult
 ---
 
@@ -12,6 +13,9 @@ status: adult
 ---
 
 In [[Programming|programming]], a variable is a store of value(s) to be used during computation.
+
+Varibales are the smallest addressable unit that a CPU can reference. They are
+only one byte.
 
 The stored value (which can either be of known or unknown quantity) is paired with a
 symbolic name known as the variable name that is used to reference the stored value(s).

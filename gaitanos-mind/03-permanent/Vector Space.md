@@ -1,13 +1,14 @@
 ---
 id: Vector Space
 aliases:
-  - Vector space
-  - vector space
+- Vector space
+- vector space
 tags:
-  - math
-  - linearalgebra
+- math
+- linearalgebra
 status: adult
 ---
+
 ---
 
 16:03, Tue 25 November 2025
@@ -23,3 +24,4 @@ Scaling is done by multiplying vectors and real numbers([[Scalar|scalars]]).
 
 ### See also:
 
+[Wikipedia - Vector space](https://en.wikipedia.org/wiki/Vector_space)
